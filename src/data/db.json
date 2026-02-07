@@ -1,0 +1,4512 @@
+{
+  "products": [
+    {
+      "id": "b6886140-22ec-4733-8308-0c824f79092a",
+      "sku": "JT-0001",
+      "name": "Classic Solitaire Diamond Ring",
+      "description": "Exquisite classic solitaire diamond ring crafted with precision and luxury. This stunning piece features diamond set in 14K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Gold jewelry piece from John Hardy",
+      "price": 5000,
+      "comparePrice": 6250,
+      "brandId": "708d3ebc-b630-4605-b5d3-0750d742ea22",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "14K",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 1.0303513877764183,
+      "ringSize": "5",
+      "images": [
+        {
+          "id": "a278109b-7064-4556-80d2-b3c8820207de",
+          "productId": "b6886140-22ec-4733-8308-0c824f79092a",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Classic Solitaire Diamond Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "788f15eb-abe8-498b-9820-558f40a2ba5e",
+          "productId": "b6886140-22ec-4733-8308-0c824f79092a",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Classic Solitaire Diamond Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "0c4f88f2-7d35-43a7-a242-7976c8d1a58d",
+          "productId": "b6886140-22ec-4733-8308-0c824f79092a",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Classic Solitaire Diamond Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": true,
+      "groupedProductIds": [
+        "6ea2d814-22f9-4d6d-a96c-0818c64a9c11",
+        "239d3276-4a1d-4e08-bb70-ca8662ef6f8f"
+      ],
+      "relatedProductIds": [
+        "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+        "1f36cda5-cb72-4234-8975-f02b5378f75a"
+      ],
+      "inStock": false,
+      "storeLocation": "Montego Bay",
+      "slug": "classic-solitaire-diamond-ring",
+      "metaTitle": "Classic Solitaire Diamond Ring | John Hardy | Jewels & Time",
+      "metaDesc": "Shop classic solitaire diamond ring from John Hardy. Premium Gold jewelry with Diamond.",
+      "keywords": [
+        "gold",
+        "diamond",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": true,
+      "isNew": false,
+      "createdAt": "2025-11-07T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.314Z",
+      "publishedAt": "2025-11-07T21:01:33.706Z",
+      "viewCount": 474
+    },
+    {
+      "id": "df6d851f-9581-42dd-8f05-b22ff8334d18",
+      "sku": "JT-0002",
+      "name": "Vintage Tanzanite Pendant",
+      "description": "Exquisite vintage tanzanite pendant crafted with precision and luxury. This stunning piece features tanzanite set in 18K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite White Gold jewelry piece from Tacori",
+      "price": 5100,
+      "brandId": "f38f8897-15bc-4618-bc67-3f43a008d53b",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "18K",
+      "gemstone": "Tanzanite",
+      "images": [
+        {
+          "id": "3c699eb5-a52d-4616-a31f-27f1315f2820",
+          "productId": "df6d851f-9581-42dd-8f05-b22ff8334d18",
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Vintage Tanzanite Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "613b806a-de9c-4f33-bf72-b3abcc4e6890",
+          "productId": "df6d851f-9581-42dd-8f05-b22ff8334d18",
+          "url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Vintage Tanzanite Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "c1311353-3a67-4d71-8943-9419623ddc67",
+          "productId": "df6d851f-9581-42dd-8f05-b22ff8334d18",
+          "url": "https://images.unsplash.com/photo-1605100804957-7f49568af8f4?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Vintage Tanzanite Pendant - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "f862f3cf-5d21-492f-be88-6b33a9ef1c04",
+          "productId": "df6d851f-9581-42dd-8f05-b22ff8334d18",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Vintage Tanzanite Pendant - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "dd700d39-4104-42d1-85de-d643e19ed8cc",
+        "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e"
+      ],
+      "relatedProductIds": [
+        "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+        "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+        "70edd0c9-795e-470d-8526-1668c9e51f54"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "vintage-tanzanite-pendant",
+      "metaTitle": "Vintage Tanzanite Pendant | Tacori | Jewels & Time",
+      "metaDesc": "Shop vintage tanzanite pendant from Tacori. Premium White Gold jewelry with Tanzanite.",
+      "keywords": [
+        "white gold",
+        "tanzanite",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-08T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.311Z",
+      "publishedAt": "2025-11-08T21:01:33.706Z",
+      "viewCount": 242
+    },
+    {
+      "id": "c8145c1e-bff0-4ad5-bd13-bb7285d59793",
+      "sku": "JT-0003",
+      "name": "Modern Cable Bracelet",
+      "description": "Exquisite modern cable bracelet crafted with precision and luxury. This stunning piece features larimar set in 24K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar Rose Gold jewelry piece from Larimar & Silver",
+      "price": 2800,
+      "brandId": "25647fec-c3c5-486d-9e34-fec6089ce056",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "24K",
+      "gemstone": "Larimar",
+      "images": [
+        {
+          "id": "ee556fb8-49a6-4861-857e-57cf0945ea3a",
+          "productId": "c8145c1e-bff0-4ad5-bd13-bb7285d59793",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Modern Cable Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "1ab6a231-e565-4fff-9aa4-af5e857ec381",
+          "productId": "c8145c1e-bff0-4ad5-bd13-bb7285d59793",
+          "url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Modern Cable Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "3358d829-7108-4299-bf5a-b62101972166",
+          "productId": "c8145c1e-bff0-4ad5-bd13-bb7285d59793",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Modern Cable Bracelet - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "modern-cable-bracelet",
+      "metaTitle": "Modern Cable Bracelet | Larimar & Silver | Jewels & Time",
+      "metaDesc": "Shop modern cable bracelet from Larimar & Silver. Premium Rose Gold jewelry with Larimar.",
+      "keywords": [
+        "rose gold",
+        "larimar",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-09T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.307Z",
+      "publishedAt": "2025-11-09T21:01:33.706Z",
+      "viewCount": 187
+    },
+    {
+      "id": "46b98270-5455-419b-9263-1235d4fed339",
+      "sku": "JT-0004",
+      "name": "Pearl Stud Earrings",
+      "description": "Exquisite pearl stud earrings crafted with precision and luxury. This stunning piece features ruby set in 925 Sterling platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby Platinum jewelry piece from Tanzanite One",
+      "price": 5300,
+      "comparePrice": 6625,
+      "brandId": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Ruby",
+      "images": [
+        {
+          "id": "2514f7ef-412f-4d33-9b4b-e5c62250130b",
+          "productId": "46b98270-5455-419b-9263-1235d4fed339",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Pearl Stud Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "fe5d8d01-b8e5-4b92-916f-67437ea49dc8",
+          "productId": "46b98270-5455-419b-9263-1235d4fed339",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Stud Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "6e1441ef-2161-4582-8168-060f6fc363d5",
+          "productId": "46b98270-5455-419b-9263-1235d4fed339",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Stud Earrings - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "f19c3221-2ace-4a69-85e7-e5666e58e5f3",
+          "productId": "46b98270-5455-419b-9263-1235d4fed339",
+          "url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Stud Earrings - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+        "74e83af2-f428-4d62-a4e8-54cfab1e2379"
+      ],
+      "relatedProductIds": [
+        "347111ee-9852-4daf-9799-db311f675584",
+        "698d434b-3266-4246-9594-9eb9bd478ef9",
+        "ab4dddaa-ad54-4524-972d-9f7c0b99aff3"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "pearl-stud-earrings",
+      "metaTitle": "Pearl Stud Earrings | Tanzanite One | Jewels & Time",
+      "metaDesc": "Shop pearl stud earrings from Tanzanite One. Premium Platinum jewelry with Ruby.",
+      "keywords": [
+        "platinum",
+        "ruby",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-10T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.303Z",
+      "publishedAt": "2025-11-10T21:01:33.706Z",
+      "viewCount": 250
+    },
+    {
+      "id": "6ea2d814-22f9-4d6d-a96c-0818c64a9c11",
+      "sku": "JT-0005",
+      "name": "Diamond Tennis Bracelet",
+      "description": "Exquisite diamond tennis bracelet crafted with precision and luxury. This stunning piece features sapphire set in 14K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire Sterling Silver jewelry piece from Cartier",
+      "price": 2500,
+      "brandId": "4d0ee164-8234-4adf-b682-3b58e299e8fb",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "14K",
+      "gemstone": "Sapphire",
+      "images": [
+        {
+          "id": "79bb53ab-deb6-4443-8f9c-440e6ee2c490",
+          "productId": "6ea2d814-22f9-4d6d-a96c-0818c64a9c11",
+          "url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Tennis Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "2540558e-f2ff-436b-b54c-9861143c0656",
+          "productId": "6ea2d814-22f9-4d6d-a96c-0818c64a9c11",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Tennis Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "c661ac9e-d3c5-4d2a-a388-28aaddd86e1f",
+          "productId": "6ea2d814-22f9-4d6d-a96c-0818c64a9c11",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Tennis Bracelet - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "b6886140-22ec-4733-8308-0c824f79092a",
+        "239d3276-4a1d-4e08-bb70-ca8662ef6f8f"
+      ],
+      "relatedProductIds": [],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "diamond-tennis-bracelet",
+      "metaTitle": "Diamond Tennis Bracelet | Cartier | Jewels & Time",
+      "metaDesc": "Shop diamond tennis bracelet from Cartier. Premium Sterling Silver jewelry with Sapphire.",
+      "keywords": [
+        "sterling silver",
+        "sapphire",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-11T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.298Z",
+      "publishedAt": "2025-11-11T21:01:33.706Z",
+      "viewCount": 67
+    },
+    {
+      "id": "1148b169-df1f-42a6-baf7-7b93bc41f6b7",
+      "sku": "JT-0006",
+      "name": "Emerald Cut Engagement Ring",
+      "description": "Exquisite emerald cut engagement ring crafted with precision and luxury. This stunning piece features emerald set in 18K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald Gold jewelry piece from Tiffany & Co",
+      "price": 3100,
+      "brandId": "77ae43ea-42ce-424f-a3ba-7111e6617273",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "18K",
+      "gemstone": "Emerald",
+      "ringSize": "10",
+      "images": [
+        {
+          "id": "707db895-6b06-48a1-bc50-55abb3b67135",
+          "productId": "1148b169-df1f-42a6-baf7-7b93bc41f6b7",
+          "url": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Emerald Cut Engagement Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "b8aa74f7-0635-4842-881b-626914656a06",
+          "productId": "1148b169-df1f-42a6-baf7-7b93bc41f6b7",
+          "url": "https://images.unsplash.com/photo-1588444650921-a23d2e959c92?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Emerald Cut Engagement Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "ef4448d4-f6d1-4d83-9303-16e841e6ec41",
+          "productId": "1148b169-df1f-42a6-baf7-7b93bc41f6b7",
+          "url": "https://images.unsplash.com/photo-1612343739664-e33ec0f28ead?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Emerald Cut Engagement Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "emerald-cut-engagement-ring",
+      "metaTitle": "Emerald Cut Engagement Ring | Tiffany & Co | Jewels & Time",
+      "metaDesc": "Shop emerald cut engagement ring from Tiffany & Co. Premium Gold jewelry with Emerald.",
+      "keywords": [
+        "gold",
+        "emerald",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-12T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.294Z",
+      "publishedAt": "2025-11-12T21:01:33.706Z",
+      "viewCount": 43
+    },
+    {
+      "id": "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+      "sku": "JT-0007",
+      "name": "Larimar Ocean Wave Necklace",
+      "description": "Exquisite larimar ocean wave necklace crafted with precision and luxury. This stunning piece features pearl set in 24K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl White Gold jewelry piece from David Yurman",
+      "price": 5100,
+      "comparePrice": 6375,
+      "brandId": "abdc55c2-0fd9-4073-aa64-523948005555",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "24K",
+      "gemstone": "Pearl",
+      "images": [
+        {
+          "id": "9d22530f-fad7-4ba5-95be-18a39fd5736b",
+          "productId": "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+          "url": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Larimar Ocean Wave Necklace - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "74fe2a32-aa54-47d1-a2df-c30cac9d3e93",
+          "productId": "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+          "url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Larimar Ocean Wave Necklace - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+        "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+        "5de50483-3bd0-40f3-9db1-558042ab5d01"
+      ],
+      "relatedProductIds": [
+        "70edd0c9-795e-470d-8526-1668c9e51f54",
+        "df6d851f-9581-42dd-8f05-b22ff8334d18"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "larimar-ocean-wave-necklace",
+      "metaTitle": "Larimar Ocean Wave Necklace | David Yurman | Jewels & Time",
+      "metaDesc": "Shop larimar ocean wave necklace from David Yurman. Premium White Gold jewelry with Pearl.",
+      "keywords": [
+        "white gold",
+        "pearl",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-13T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.289Z",
+      "publishedAt": "2025-11-13T21:01:33.706Z",
+      "viewCount": 399
+    },
+    {
+      "id": "239d3276-4a1d-4e08-bb70-ca8662ef6f8f",
+      "sku": "JT-0008",
+      "name": "Gold Hoop Earrings",
+      "description": "Exquisite gold hoop earrings crafted with precision and luxury. This stunning piece features diamond set in 925 Sterling rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Rose Gold jewelry piece from Mikimoto",
+      "price": 4400,
+      "brandId": "725b4d93-d583-420e-828b-0b661b7231b7",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 0.8832973355670595,
+      "images": [
+        {
+          "id": "74b91116-a330-4aa5-83ff-39c7f950542d",
+          "productId": "239d3276-4a1d-4e08-bb70-ca8662ef6f8f",
+          "url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Gold Hoop Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "d28adc19-da61-4a81-8b82-b209cdc5f58c",
+          "productId": "239d3276-4a1d-4e08-bb70-ca8662ef6f8f",
+          "url": "https://images.unsplash.com/photo-1608042314453-ae338d80c427?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Gold Hoop Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "c1529c5c-6790-4f30-9b69-9c53e3da36aa",
+          "productId": "239d3276-4a1d-4e08-bb70-ca8662ef6f8f",
+          "url": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Gold Hoop Earrings - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "cf8c080b-9477-4caa-950e-2c4de943b99d",
+          "productId": "239d3276-4a1d-4e08-bb70-ca8662ef6f8f",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Gold Hoop Earrings - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "b6886140-22ec-4733-8308-0c824f79092a",
+        "6ea2d814-22f9-4d6d-a96c-0818c64a9c11"
+      ],
+      "relatedProductIds": [
+        "fa1fc14a-f453-40ef-bd40-ce0803d5734d"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "gold-hoop-earrings",
+      "metaTitle": "Gold Hoop Earrings | Mikimoto | Jewels & Time",
+      "metaDesc": "Shop gold hoop earrings from Mikimoto. Premium Rose Gold jewelry with Diamond.",
+      "keywords": [
+        "rose gold",
+        "diamond",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-14T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.286Z",
+      "publishedAt": "2025-11-14T21:01:33.706Z",
+      "viewCount": 66
+    },
+    {
+      "id": "347111ee-9852-4daf-9799-db311f675584",
+      "sku": "JT-0009",
+      "name": "Sapphire Eternity Band",
+      "description": "Exquisite sapphire eternity band crafted with precision and luxury. This stunning piece features tanzanite set in 14K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite Platinum jewelry piece from Bulgari",
+      "price": 6200,
+      "brandId": "838ff2c8-7adf-41aa-b86b-1da1a870d553",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "14K",
+      "gemstone": "Tanzanite",
+      "images": [
+        {
+          "id": "c622f583-b04a-4de5-b70f-6600334b015e",
+          "productId": "347111ee-9852-4daf-9799-db311f675584",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Sapphire Eternity Band - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "09d175e8-ea1b-4208-81fa-07d5fb2da53d",
+          "productId": "347111ee-9852-4daf-9799-db311f675584",
+          "url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Sapphire Eternity Band - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "46b98270-5455-419b-9263-1235d4fed339",
+        "698d434b-3266-4246-9594-9eb9bd478ef9",
+        "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+        "7fe4553d-8b54-49da-bb69-0ce8dbec97c5"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "sapphire-eternity-band",
+      "metaTitle": "Sapphire Eternity Band | Bulgari | Jewels & Time",
+      "metaDesc": "Shop sapphire eternity band from Bulgari. Premium Platinum jewelry with Tanzanite.",
+      "keywords": [
+        "platinum",
+        "tanzanite",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": true,
+      "isNew": false,
+      "createdAt": "2025-11-15T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.282Z",
+      "publishedAt": "2025-11-15T21:01:33.706Z",
+      "viewCount": 72
+    },
+    {
+      "id": "8e84ba20-464b-4685-80a3-a078b46e44b7",
+      "sku": "JT-0010",
+      "name": "Love Knot Pendant",
+      "description": "Exquisite love knot pendant crafted with precision and luxury. This stunning piece features larimar set in 18K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar Sterling Silver jewelry piece from Van Cleef & Arpels",
+      "price": 6200,
+      "comparePrice": 7750,
+      "brandId": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "18K",
+      "gemstone": "Larimar",
+      "images": [
+        {
+          "id": "38bf881d-561c-4f27-9cf8-9b73355c5ef2",
+          "productId": "8e84ba20-464b-4685-80a3-a078b46e44b7",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Love Knot Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "c9a83628-a15c-47f8-a28a-54895a33e84a",
+          "productId": "8e84ba20-464b-4685-80a3-a078b46e44b7",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Love Knot Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "dc6f03a1-c4c2-4c13-a688-b661f32c214e",
+        "122ffda7-39a1-4dc4-81ee-2f45d4191c21"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "love-knot-pendant",
+      "metaTitle": "Love Knot Pendant | Van Cleef & Arpels | Jewels & Time",
+      "metaDesc": "Shop love knot pendant from Van Cleef & Arpels. Premium Sterling Silver jewelry with Larimar.",
+      "keywords": [
+        "sterling silver",
+        "larimar",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "DRAFT",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-16T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:12:23.278Z",
+      "publishedAt": "2025-11-16T21:01:33.706Z",
+      "viewCount": 275
+    },
+    {
+      "id": "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+      "sku": "JT-0011",
+      "name": "Infinity Diamond Ring",
+      "description": "Exquisite infinity diamond ring crafted with precision and luxury. This stunning piece features ruby set in 24K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby Gold jewelry piece from John Hardy",
+      "price": 5900,
+      "brandId": "708d3ebc-b630-4605-b5d3-0750d742ea22",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "24K",
+      "gemstone": "Ruby",
+      "ringSize": "9",
+      "images": [
+        {
+          "id": "ea271c7f-c3e2-4dbd-b138-bb4c8559f0b9",
+          "productId": "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Infinity Diamond Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "22abed70-91d1-4b04-9dba-b7309e2d2d3d",
+          "productId": "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Infinity Diamond Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "e657d38e-d302-4de9-88e1-9f8c51653db7",
+          "productId": "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Infinity Diamond Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": true,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "2db2faf3-e581-4982-bdae-bbbf5307495d",
+        "b6886140-22ec-4733-8308-0c824f79092a",
+        "210d98b1-be63-497e-8e91-7fa826571ecc",
+        "1f36cda5-cb72-4234-8975-f02b5378f75a"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "infinity-diamond-ring",
+      "metaTitle": "Infinity Diamond Ring | John Hardy | Jewels & Time",
+      "metaDesc": "Shop infinity diamond ring from John Hardy. Premium Gold jewelry with Ruby.",
+      "keywords": [
+        "gold",
+        "ruby",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-17T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.390Z",
+      "publishedAt": "2025-12-27T22:26:53.390Z",
+      "viewCount": 65
+    },
+    {
+      "id": "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+      "sku": "JT-0012",
+      "name": "Caribbean Blue Larimar Ring",
+      "description": "Exquisite caribbean blue larimar ring crafted with precision and luxury. This stunning piece features sapphire set in 925 Sterling white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire White Gold jewelry piece from Tacori",
+      "price": 3800,
+      "brandId": "f38f8897-15bc-4618-bc67-3f43a008d53b",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Sapphire",
+      "images": [
+        {
+          "id": "4c7e538e-ec3e-42ef-9501-bade71e9a649",
+          "productId": "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+          "url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Caribbean Blue Larimar Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "a86c1cda-f29d-4c80-b012-c2eaffbc4ff0",
+          "productId": "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+          "url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Caribbean Blue Larimar Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "29a89d35-9e15-4f0b-ba9c-f03f2d25fa38",
+          "productId": "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Caribbean Blue Larimar Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+        "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+        "5de50483-3bd0-40f3-9db1-558042ab5d01"
+      ],
+      "relatedProductIds": [
+        "70edd0c9-795e-470d-8526-1668c9e51f54"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "caribbean-blue-larimar-ring",
+      "metaTitle": "Caribbean Blue Larimar Ring | Tacori | Jewels & Time",
+      "metaDesc": "Shop caribbean blue larimar ring from Tacori. Premium White Gold jewelry with Sapphire.",
+      "keywords": [
+        "white gold",
+        "sapphire",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-18T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.387Z",
+      "publishedAt": "2025-12-27T22:26:53.386Z",
+      "viewCount": 272
+    },
+    {
+      "id": "dd700d39-4104-42d1-85de-d643e19ed8cc",
+      "sku": "JT-0013",
+      "name": "Tanzanite Halo Ring",
+      "description": "Exquisite tanzanite halo ring crafted with precision and luxury. This stunning piece features emerald set in 14K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald Rose Gold jewelry piece from Larimar & Silver",
+      "price": 6100,
+      "comparePrice": 7625,
+      "brandId": "25647fec-c3c5-486d-9e34-fec6089ce056",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "14K",
+      "gemstone": "Emerald",
+      "images": [
+        {
+          "id": "b976c54f-dbb2-4a4f-9edf-7127d466b802",
+          "productId": "dd700d39-4104-42d1-85de-d643e19ed8cc",
+          "url": "https://images.unsplash.com/photo-1605100804957-7f49568af8f4?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Tanzanite Halo Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "ec8340fd-7066-48af-9e57-236075139617",
+          "productId": "dd700d39-4104-42d1-85de-d643e19ed8cc",
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Tanzanite Halo Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "df6d851f-9581-42dd-8f05-b22ff8334d18",
+        "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e"
+      ],
+      "relatedProductIds": [
+        "1e7c16ca-fd39-4483-8bdf-baa510393371",
+        "c93fce34-953d-4986-9e72-9383a3ea0977",
+        "fa1fc14a-f453-40ef-bd40-ce0803d5734d",
+        "239d3276-4a1d-4e08-bb70-ca8662ef6f8f"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "tanzanite-halo-ring",
+      "metaTitle": "Tanzanite Halo Ring | Larimar & Silver | Jewels & Time",
+      "metaDesc": "Shop tanzanite halo ring from Larimar & Silver. Premium Rose Gold jewelry with Emerald.",
+      "keywords": [
+        "rose gold",
+        "emerald",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-19T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.383Z",
+      "publishedAt": "2025-12-27T22:26:53.383Z",
+      "viewCount": 371
+    },
+    {
+      "id": "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+      "sku": "JT-0014",
+      "name": "Classic Pearl Necklace",
+      "description": "Exquisite classic pearl necklace crafted with precision and luxury. This stunning piece features pearl set in 18K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl Platinum jewelry piece from Tanzanite One",
+      "price": 5000,
+      "brandId": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "18K",
+      "gemstone": "Pearl",
+      "images": [
+        {
+          "id": "43520fd4-0868-4cbf-bc93-7ed5fbbc50a8",
+          "productId": "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+          "url": "https://images.unsplash.com/photo-1588444650921-a23d2e959c92?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Classic Pearl Necklace - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "1bc6ac1c-ed91-476e-b874-da5398b0ab48",
+          "productId": "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Classic Pearl Necklace - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "be9020bf-3985-4b26-9f3d-a20e7c780997",
+          "productId": "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+          "url": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Classic Pearl Necklace - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "a2504d76-298b-4712-bd6a-a859aa437b9c",
+          "productId": "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Classic Pearl Necklace - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "46b98270-5455-419b-9263-1235d4fed339",
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+        "74e83af2-f428-4d62-a4e8-54cfab1e2379"
+      ],
+      "relatedProductIds": [
+        "698d434b-3266-4246-9594-9eb9bd478ef9",
+        "347111ee-9852-4daf-9799-db311f675584"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "classic-pearl-necklace",
+      "metaTitle": "Classic Pearl Necklace | Tanzanite One | Jewels & Time",
+      "metaDesc": "Shop classic pearl necklace from Tanzanite One. Premium Platinum jewelry with Pearl.",
+      "keywords": [
+        "platinum",
+        "pearl",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-20T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.379Z",
+      "publishedAt": "2025-12-27T22:26:53.378Z",
+      "viewCount": 467
+    },
+    {
+      "id": "dc6f03a1-c4c2-4c13-a688-b661f32c214e",
+      "sku": "JT-0015",
+      "name": "Diamond Cross Pendant",
+      "description": "Exquisite diamond cross pendant crafted with precision and luxury. This stunning piece features diamond set in 24K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Sterling Silver jewelry piece from Cartier",
+      "price": 5200,
+      "brandId": "4d0ee164-8234-4adf-b682-3b58e299e8fb",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "24K",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 1.9762932482522932,
+      "images": [
+        {
+          "id": "8fba6e2e-f4a3-4547-931c-28c4d8543e02",
+          "productId": "dc6f03a1-c4c2-4c13-a688-b661f32c214e",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Cross Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "66a1e4a8-5d0e-4b9d-a0dc-4f8d51a86cc6",
+          "productId": "dc6f03a1-c4c2-4c13-a688-b661f32c214e",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Cross Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "6c7699d0-1e61-4d8d-b58f-c831d7e80a21",
+          "productId": "dc6f03a1-c4c2-4c13-a688-b661f32c214e",
+          "url": "https://images.unsplash.com/photo-1612343739664-e33ec0f28ead?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Cross Pendant - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+        "8e84ba20-464b-4685-80a3-a078b46e44b7"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "diamond-cross-pendant",
+      "metaTitle": "Diamond Cross Pendant | Cartier | Jewels & Time",
+      "metaDesc": "Shop diamond cross pendant from Cartier. Premium Sterling Silver jewelry with Diamond.",
+      "keywords": [
+        "sterling silver",
+        "diamond",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-21T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.376Z",
+      "publishedAt": "2025-12-27T22:26:53.375Z",
+      "viewCount": 487
+    },
+    {
+      "id": "1f36cda5-cb72-4234-8975-f02b5378f75a",
+      "sku": "JT-0016",
+      "name": "Three Stone Engagement Ring",
+      "description": "Exquisite three stone engagement ring crafted with precision and luxury. This stunning piece features tanzanite set in 925 Sterling gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite Gold jewelry piece from Tiffany & Co",
+      "price": 5100,
+      "comparePrice": 6375,
+      "brandId": "77ae43ea-42ce-424f-a3ba-7111e6617273",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Tanzanite",
+      "ringSize": "8",
+      "images": [
+        {
+          "id": "92a2b96a-329e-43d2-8c73-8c0c7625877e",
+          "productId": "1f36cda5-cb72-4234-8975-f02b5378f75a",
+          "url": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Three Stone Engagement Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "ba087ecb-6129-4cf4-907f-3e7c9705a3b5",
+          "productId": "1f36cda5-cb72-4234-8975-f02b5378f75a",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Three Stone Engagement Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "2db2faf3-e581-4982-bdae-bbbf5307495d",
+        "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+        "b6886140-22ec-4733-8308-0c824f79092a"
+      ],
+      "inStock": false,
+      "storeLocation": "Ocho Rios",
+      "slug": "three-stone-engagement-ring",
+      "metaTitle": "Three Stone Engagement Ring | Tiffany & Co | Jewels & Time",
+      "metaDesc": "Shop three stone engagement ring from Tiffany & Co. Premium Gold jewelry with Tanzanite.",
+      "keywords": [
+        "gold",
+        "tanzanite",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-22T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.371Z",
+      "publishedAt": "2025-12-27T22:26:53.371Z",
+      "viewCount": 333
+    },
+    {
+      "id": "70edd0c9-795e-470d-8526-1668c9e51f54",
+      "sku": "JT-0017",
+      "name": "Cable Chain Bracelet",
+      "description": "Exquisite cable chain bracelet crafted with precision and luxury. This stunning piece features larimar set in 14K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar White Gold jewelry piece from David Yurman",
+      "price": 4900,
+      "brandId": "abdc55c2-0fd9-4073-aa64-523948005555",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "14K",
+      "gemstone": "Larimar",
+      "images": [
+        {
+          "id": "29317300-a66d-4296-a39f-c5ac7eeb4a27",
+          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Cable Chain Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "979c1ab5-80b7-477f-8eec-fc0fe6737ec9",
+          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cable Chain Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "c65caf8d-4f9c-4ab9-b6ae-79b24c06f16a",
+          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cable Chain Bracelet - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+        "df6d851f-9581-42dd-8f05-b22ff8334d18",
+        "58ec48cb-8d4e-4f44-9dab-25f49f9eed61"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "cable-chain-bracelet",
+      "metaTitle": "Cable Chain Bracelet | David Yurman | Jewels & Time",
+      "metaDesc": "Shop cable chain bracelet from David Yurman. Premium White Gold jewelry with Larimar.",
+      "keywords": [
+        "white gold",
+        "larimar",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": true,
+      "isNew": false,
+      "createdAt": "2025-11-23T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.367Z",
+      "publishedAt": "2025-12-27T22:26:53.366Z",
+      "viewCount": 275
+    },
+    {
+      "id": "fa1fc14a-f453-40ef-bd40-ce0803d5734d",
+      "sku": "JT-0018",
+      "name": "Ruby Heart Pendant",
+      "description": "Exquisite ruby heart pendant crafted with precision and luxury. This stunning piece features ruby set in 18K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby Rose Gold jewelry piece from Mikimoto",
+      "price": 4700,
+      "brandId": "725b4d93-d583-420e-828b-0b661b7231b7",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "18K",
+      "gemstone": "Ruby",
+      "images": [
+        {
+          "id": "bb7a12a4-1599-4cbe-b3dc-2bbd5b647bbf",
+          "productId": "fa1fc14a-f453-40ef-bd40-ce0803d5734d",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Ruby Heart Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "905dd4f0-eeba-4cae-acfd-db3bb52ee27e",
+          "productId": "fa1fc14a-f453-40ef-bd40-ce0803d5734d",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Ruby Heart Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "dd700d39-4104-42d1-85de-d643e19ed8cc",
+        "239d3276-4a1d-4e08-bb70-ca8662ef6f8f"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "ruby-heart-pendant",
+      "metaTitle": "Ruby Heart Pendant | Mikimoto | Jewels & Time",
+      "metaDesc": "Shop ruby heart pendant from Mikimoto. Premium Rose Gold jewelry with Ruby.",
+      "keywords": [
+        "rose gold",
+        "ruby",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-24T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.363Z",
+      "publishedAt": "2025-12-27T22:26:53.363Z",
+      "viewCount": 273
+    },
+    {
+      "id": "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+      "sku": "JT-0019",
+      "name": "Twisted Cable Bangle",
+      "description": "Exquisite twisted cable bangle crafted with precision and luxury. This stunning piece features sapphire set in 24K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire Platinum jewelry piece from Bulgari",
+      "price": 6800,
+      "comparePrice": 8500,
+      "brandId": "838ff2c8-7adf-41aa-b86b-1da1a870d553",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "24K",
+      "gemstone": "Sapphire",
+      "images": [
+        {
+          "id": "0c11aa8a-37f7-4833-9626-7c13342547d4",
+          "productId": "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+          "url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Twisted Cable Bangle - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "a64f89cc-ae62-4ad4-99bd-c3654151e320",
+          "productId": "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+          "url": "https://images.unsplash.com/photo-1605100804957-7f49568af8f4?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Twisted Cable Bangle - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "6c7e3db9-e4ec-40bd-a430-a3ef59183ab4",
+          "productId": "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Twisted Cable Bangle - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "46b98270-5455-419b-9263-1235d4fed339",
+        "347111ee-9852-4daf-9799-db311f675584",
+        "698d434b-3266-4246-9594-9eb9bd478ef9",
+        "7fe4553d-8b54-49da-bb69-0ce8dbec97c5"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "twisted-cable-bangle",
+      "metaTitle": "Twisted Cable Bangle | Bulgari | Jewels & Time",
+      "metaDesc": "Shop twisted cable bangle from Bulgari. Premium Platinum jewelry with Sapphire.",
+      "keywords": [
+        "platinum",
+        "sapphire",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-25T21:01:33.706Z",
+      "updatedAt": "2025-12-27T22:26:53.359Z",
+      "publishedAt": "2025-12-27T22:26:53.358Z",
+      "viewCount": 283
+    },
+    {
+      "id": "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+      "sku": "JT-0020",
+      "name": "Diamond Stud Earrings",
+      "description": "Exquisite diamond stud earrings crafted with precision and luxury. This stunning piece features emerald set in 925 Sterling sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald Sterling Silver jewelry piece from Van Cleef & Arpels",
+      "price": 8700,
+      "brandId": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Emerald",
+      "images": [
+        {
+          "id": "154adeec-52ba-479c-8be4-a350adfa76da",
+          "productId": "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+          "url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Stud Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.706Z"
+        },
+        {
+          "id": "5cc26ea8-f736-4028-835e-d07ba4bf7a86",
+          "productId": "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Stud Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+        "1d097b85-6340-42ca-acf1-7a1726547ffc",
+        "8e84ba20-464b-4685-80a3-a078b46e44b7",
+        "122ffda7-39a1-4dc4-81ee-2f45d4191c21"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "diamond-stud-earrings",
+      "metaTitle": "Diamond Stud Earrings | Van Cleef & Arpels | Jewels & Time",
+      "metaDesc": "Shop diamond stud earrings from Van Cleef & Arpels. Premium Sterling Silver jewelry with Emerald.",
+      "keywords": [
+        "sterling silver",
+        "emerald",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-26T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.355Z",
+      "publishedAt": "2025-12-27T22:26:53.354Z",
+      "viewCount": 495
+    },
+    {
+      "id": "2db2faf3-e581-4982-bdae-bbbf5307495d",
+      "sku": "JT-0021",
+      "name": "Moon Phase Pendant",
+      "description": "Exquisite moon phase pendant crafted with precision and luxury. This stunning piece features pearl set in 14K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl Gold jewelry piece from John Hardy",
+      "price": 6600,
+      "brandId": "708d3ebc-b630-4605-b5d3-0750d742ea22",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "14K",
+      "gemstone": "Pearl",
+      "ringSize": "7",
+      "images": [
+        {
+          "id": "e15828c3-2079-4ba7-b17d-a010c8bbd308",
+          "productId": "2db2faf3-e581-4982-bdae-bbbf5307495d",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Moon Phase Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "fdf95a57-2ebd-491b-9ae1-be913dd06e03",
+          "productId": "2db2faf3-e581-4982-bdae-bbbf5307495d",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Moon Phase Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "11b12202-3266-4b35-8d83-1b370919d5da",
+          "productId": "2db2faf3-e581-4982-bdae-bbbf5307495d",
+          "url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Moon Phase Pendant - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": true,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "210d98b1-be63-497e-8e91-7fa826571ecc",
+        "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+        "b6886140-22ec-4733-8308-0c824f79092a",
+        "1f36cda5-cb72-4234-8975-f02b5378f75a"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "moon-phase-pendant",
+      "metaTitle": "Moon Phase Pendant | John Hardy | Jewels & Time",
+      "metaDesc": "Shop moon phase pendant from John Hardy. Premium Gold jewelry with Pearl.",
+      "keywords": [
+        "gold",
+        "pearl",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-27T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.351Z",
+      "publishedAt": "2025-12-27T22:26:53.351Z",
+      "viewCount": 158
+    },
+    {
+      "id": "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+      "sku": "JT-0022",
+      "name": "Stackable Gold Rings",
+      "description": "Exquisite stackable gold rings crafted with precision and luxury. This stunning piece features diamond set in 18K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond White Gold jewelry piece from Tacori",
+      "price": 6700,
+      "comparePrice": 8375,
+      "brandId": "f38f8897-15bc-4618-bc67-3f43a008d53b",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "18K",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 1.9897879607355153,
+      "images": [
+        {
+          "id": "0b9fb2e0-cb66-45b1-a2ba-ca72b9a27332",
+          "productId": "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Stackable Gold Rings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "c8e8cc27-334c-4e2a-9d22-6506e0e37742",
+          "productId": "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Stackable Gold Rings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+        "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+        "df6d851f-9581-42dd-8f05-b22ff8334d18",
+        "70edd0c9-795e-470d-8526-1668c9e51f54"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "stackable-gold-rings",
+      "metaTitle": "Stackable Gold Rings | Tacori | Jewels & Time",
+      "metaDesc": "Shop stackable gold rings from Tacori. Premium White Gold jewelry with Diamond.",
+      "keywords": [
+        "white gold",
+        "diamond",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-28T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.347Z",
+      "publishedAt": "2025-12-27T22:26:53.347Z",
+      "viewCount": 377
+    },
+    {
+      "id": "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+      "sku": "JT-0023",
+      "name": "Larimar Teardrop Earrings",
+      "description": "Exquisite larimar teardrop earrings crafted with precision and luxury. This stunning piece features tanzanite set in 24K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite Rose Gold jewelry piece from Larimar & Silver",
+      "price": 8300,
+      "brandId": "25647fec-c3c5-486d-9e34-fec6089ce056",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "24K",
+      "gemstone": "Tanzanite",
+      "images": [
+        {
+          "id": "023cdfab-a977-466b-aa40-04c5ffde2f27",
+          "productId": "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+          "url": "https://images.unsplash.com/photo-1588444650921-a23d2e959c92?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Larimar Teardrop Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "211fb5a2-6975-4dc1-b8f4-5c0a494af884",
+          "productId": "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+          "url": "https://images.unsplash.com/photo-1612343739664-e33ec0f28ead?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Larimar Teardrop Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+        "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+        "5de50483-3bd0-40f3-9db1-558042ab5d01"
+      ],
+      "relatedProductIds": [
+        "dd700d39-4104-42d1-85de-d643e19ed8cc",
+        "c93fce34-953d-4986-9e72-9383a3ea0977",
+        "1e7c16ca-fd39-4483-8bdf-baa510393371"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "larimar-teardrop-earrings",
+      "metaTitle": "Larimar Teardrop Earrings | Larimar & Silver | Jewels & Time",
+      "metaDesc": "Shop larimar teardrop earrings from Larimar & Silver. Premium Rose Gold jewelry with Tanzanite.",
+      "keywords": [
+        "rose gold",
+        "tanzanite",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-29T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.343Z",
+      "publishedAt": "2025-12-27T22:26:53.342Z",
+      "viewCount": 24
+    },
+    {
+      "id": "8d4253df-677f-4713-84e1-528fe671b31f",
+      "sku": "JT-0024",
+      "name": "Diamond Cluster Ring",
+      "description": "Exquisite diamond cluster ring crafted with precision and luxury. This stunning piece features larimar set in 925 Sterling platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar Platinum jewelry piece from Tanzanite One",
+      "price": 9000,
+      "brandId": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Larimar",
+      "images": [
+        {
+          "id": "62ad8065-f2ce-4c7d-99d1-3ad9c6d6ec8b",
+          "productId": "8d4253df-677f-4713-84e1-528fe671b31f",
+          "url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Cluster Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "efd3b07a-684d-42de-8f8d-c3fba761ccce",
+          "productId": "8d4253df-677f-4713-84e1-528fe671b31f",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Cluster Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "9aee0e7a-8948-4448-957c-23477487bc33",
+          "productId": "8d4253df-677f-4713-84e1-528fe671b31f",
+          "url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Cluster Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "d46cd3f5-1d73-460d-ba56-a21bfc0c85ab",
+          "productId": "8d4253df-677f-4713-84e1-528fe671b31f",
+          "url": "https://images.unsplash.com/photo-1608042314453-ae338d80c427?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Cluster Ring - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+        "5de50483-3bd0-40f3-9db1-558042ab5d01",
+        "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+        "74e83af2-f428-4d62-a4e8-54cfab1e2379"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "diamond-cluster-ring",
+      "metaTitle": "Diamond Cluster Ring | Tanzanite One | Jewels & Time",
+      "metaDesc": "Shop diamond cluster ring from Tanzanite One. Premium Platinum jewelry with Larimar.",
+      "keywords": [
+        "platinum",
+        "larimar",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-11-30T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.339Z",
+      "publishedAt": "2025-12-27T22:26:53.338Z",
+      "viewCount": 94
+    },
+    {
+      "id": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+      "sku": "JT-0025",
+      "name": "Byzantine Chain Necklace",
+      "description": "Exquisite byzantine chain necklace crafted with precision and luxury. This stunning piece features ruby set in 14K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby Sterling Silver jewelry piece from Cartier",
+      "price": 6400,
+      "comparePrice": 8000,
+      "brandId": "4d0ee164-8234-4adf-b682-3b58e299e8fb",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "14K",
+      "gemstone": "Ruby",
+      "images": [
+        {
+          "id": "b0f7088e-bd4b-4b4b-96e0-a11e088f55e4",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "url": "https://images.unsplash.com/photo-1608042314453-ae338d80c427?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Byzantine Chain Necklace - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "555b4e92-b703-4394-b92b-470d529bb2d5",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "url": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Byzantine Chain Necklace - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6f49f621-fee3-492d-9731-1820a2c5343b",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Byzantine Chain Necklace - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "ef9774f1-4695-44de-99d3-a45ab5b463ae",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Byzantine Chain Necklace - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "8e84ba20-464b-4685-80a3-a078b46e44b7",
+        "dc6f03a1-c4c2-4c13-a688-b661f32c214e"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "byzantine-chain-necklace",
+      "metaTitle": "Byzantine Chain Necklace | Cartier | Jewels & Time",
+      "metaDesc": "Shop byzantine chain necklace from Cartier. Premium Sterling Silver jewelry with Ruby.",
+      "keywords": [
+        "sterling silver",
+        "ruby",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": true,
+      "isNew": false,
+      "createdAt": "2025-12-01T21:01:33.707Z",
+      "updatedAt": "2025-12-29T19:31:48.525Z",
+      "publishedAt": "2025-12-27T22:26:53.334Z",
+      "viewCount": 23
+    },
+    {
+      "id": "210d98b1-be63-497e-8e91-7fa826571ecc",
+      "sku": "JT-0026",
+      "name": "Cushion Cut Sapphire Ring",
+      "description": "Exquisite cushion cut sapphire ring crafted with precision and luxury. This stunning piece features sapphire set in 18K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire Gold jewelry piece from Tiffany & Co",
+      "price": 7300,
+      "brandId": "77ae43ea-42ce-424f-a3ba-7111e6617273",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "18K",
+      "gemstone": "Sapphire",
+      "ringSize": "6",
+      "images": [
+        {
+          "id": "289e609c-bcfb-4d09-93b3-698d656399ec",
+          "productId": "210d98b1-be63-497e-8e91-7fa826571ecc",
+          "url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Cushion Cut Sapphire Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6aa4f789-fbca-44d9-8985-b4e702e3ab1b",
+          "productId": "210d98b1-be63-497e-8e91-7fa826571ecc",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cushion Cut Sapphire Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "1be8efb1-1233-47a8-acd2-8e4bd9155f1a",
+          "productId": "210d98b1-be63-497e-8e91-7fa826571ecc",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cushion Cut Sapphire Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "aa23404f-d1a5-4390-86d0-b7c4a941f99a",
+          "productId": "210d98b1-be63-497e-8e91-7fa826571ecc",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cushion Cut Sapphire Ring - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "2db2faf3-e581-4982-bdae-bbbf5307495d",
+        "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+        "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+        "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "cushion-cut-sapphire-ring",
+      "metaTitle": "Cushion Cut Sapphire Ring | Tiffany & Co | Jewels & Time",
+      "metaDesc": "Shop cushion cut sapphire ring from Tiffany & Co. Premium Gold jewelry with Sapphire.",
+      "keywords": [
+        "gold",
+        "sapphire",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-02T21:01:33.707Z",
+      "updatedAt": "2026-02-04T21:27:55.265Z",
+      "publishedAt": "2025-12-27T22:26:53.329Z",
+      "viewCount": 138
+    },
+    {
+      "id": "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+      "sku": "JT-0027",
+      "name": "Pearl Drop Earrings",
+      "description": "Exquisite pearl drop earrings crafted with precision and luxury. This stunning piece features emerald set in 24K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald White Gold jewelry piece from David Yurman",
+      "price": 8600,
+      "brandId": "abdc55c2-0fd9-4073-aa64-523948005555",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "24K",
+      "gemstone": "Emerald",
+      "images": [
+        {
+          "id": "3d91a0c3-35f1-4a53-a071-c77854577948",
+          "productId": "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Pearl Drop Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "a8a90411-bc02-478f-ad45-7e0bc9d131d9",
+          "productId": "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Drop Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "7d4846ed-37fa-4a19-9819-600c95f7e636",
+          "productId": "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Drop Earrings - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "46b98270-5455-419b-9263-1235d4fed339",
+        "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+        "74e83af2-f428-4d62-a4e8-54cfab1e2379"
+      ],
+      "relatedProductIds": [
+        "71725ae8-cb4e-40da-9dd1-c2f51115b9c5",
+        "451eb468-feb0-4b68-b506-000dfd38ea69",
+        "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+        "0aab6b8d-e747-43da-8fd8-59bf65aa7d04"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "pearl-drop-earrings",
+      "metaTitle": "Pearl Drop Earrings | David Yurman | Jewels & Time",
+      "metaDesc": "Shop pearl drop earrings from David Yurman. Premium White Gold jewelry with Emerald.",
+      "keywords": [
+        "white gold",
+        "emerald",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-03T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.326Z",
+      "publishedAt": "2025-12-27T22:26:53.325Z",
+      "viewCount": 4
+    },
+    {
+      "id": "c93fce34-953d-4986-9e72-9383a3ea0977",
+      "sku": "JT-0028",
+      "name": "Charm Bracelet",
+      "description": "Exquisite charm bracelet crafted with precision and luxury. This stunning piece features pearl set in 925 Sterling rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl Rose Gold jewelry piece from Mikimoto",
+      "price": 7400,
+      "comparePrice": 9250,
+      "brandId": "725b4d93-d583-420e-828b-0b661b7231b7",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Pearl",
+      "images": [
+        {
+          "id": "ba96e39a-f2ca-4551-9a41-c96e59529678",
+          "productId": "c93fce34-953d-4986-9e72-9383a3ea0977",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Charm Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "b3533123-c6ab-4004-863b-7d96f0f238ce",
+          "productId": "c93fce34-953d-4986-9e72-9383a3ea0977",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Charm Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+        "dd700d39-4104-42d1-85de-d643e19ed8cc",
+        "1e7c16ca-fd39-4483-8bdf-baa510393371"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "charm-bracelet",
+      "metaTitle": "Charm Bracelet | Mikimoto | Jewels & Time",
+      "metaDesc": "Shop charm bracelet from Mikimoto. Premium Rose Gold jewelry with Pearl.",
+      "keywords": [
+        "rose gold",
+        "pearl",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-04T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.322Z",
+      "publishedAt": "2025-12-27T22:26:53.321Z",
+      "viewCount": 199
+    },
+    {
+      "id": "698d434b-3266-4246-9594-9eb9bd478ef9",
+      "sku": "JT-0029",
+      "name": "Diamond Bar Necklace",
+      "description": "Exquisite diamond bar necklace crafted with precision and luxury. This stunning piece features diamond set in 14K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Platinum jewelry piece from Bulgari",
+      "price": 6200,
+      "brandId": "838ff2c8-7adf-41aa-b86b-1da1a870d553",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "14K",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 1.5180507591756374,
+      "images": [
+        {
+          "id": "ec6728eb-6222-4d02-b275-849f994d3aa9",
+          "productId": "698d434b-3266-4246-9594-9eb9bd478ef9",
+          "url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Bar Necklace - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "c13b1dac-69b8-4efa-8194-3dc35796d633",
+          "productId": "698d434b-3266-4246-9594-9eb9bd478ef9",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Bar Necklace - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6b7d81e8-153f-4951-a378-572fe88993a8",
+          "productId": "698d434b-3266-4246-9594-9eb9bd478ef9",
+          "url": "https://images.unsplash.com/photo-1605100804957-7f49568af8f4?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Bar Necklace - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "7b4b93dd-cc73-4ac6-946d-04a3464440a2",
+          "productId": "698d434b-3266-4246-9594-9eb9bd478ef9",
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Bar Necklace - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+        "46b98270-5455-419b-9263-1235d4fed339",
+        "347111ee-9852-4daf-9799-db311f675584",
+        "7fe4553d-8b54-49da-bb69-0ce8dbec97c5"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "diamond-bar-necklace",
+      "metaTitle": "Diamond Bar Necklace | Bulgari | Jewels & Time",
+      "metaDesc": "Shop diamond bar necklace from Bulgari. Premium Platinum jewelry with Diamond.",
+      "keywords": [
+        "platinum",
+        "diamond",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-05T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.318Z",
+      "publishedAt": "2025-12-27T22:26:53.317Z",
+      "viewCount": 180
+    },
+    {
+      "id": "1d097b85-6340-42ca-acf1-7a1726547ffc",
+      "sku": "JT-0030",
+      "name": "Art Deco Tanzanite Ring",
+      "description": "Exquisite art deco tanzanite ring crafted with precision and luxury. This stunning piece features tanzanite set in 18K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite Sterling Silver jewelry piece from Van Cleef & Arpels",
+      "price": 10700,
+      "brandId": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "18K",
+      "gemstone": "Tanzanite",
+      "images": [
+        {
+          "id": "1f9d4d0a-0be7-4473-8ce4-b0ee64af0c9f",
+          "productId": "1d097b85-6340-42ca-acf1-7a1726547ffc",
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Art Deco Tanzanite Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "c857f050-1300-4bc6-a8aa-9039da97d8b2",
+          "productId": "1d097b85-6340-42ca-acf1-7a1726547ffc",
+          "url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Art Deco Tanzanite Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "7b8d67f0-7601-4d23-82dc-7e375cd1a3f6",
+          "productId": "1d097b85-6340-42ca-acf1-7a1726547ffc",
+          "url": "https://images.unsplash.com/photo-1588444650921-a23d2e959c92?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Art Deco Tanzanite Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "f333973a-d471-40f6-a148-f9880de9d37f",
+          "productId": "1d097b85-6340-42ca-acf1-7a1726547ffc",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Art Deco Tanzanite Ring - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
+        "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+        "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+        "84a1cdea-5ef4-4a99-a11b-577eea438fd8"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "art-deco-tanzanite-ring",
+      "metaTitle": "Art Deco Tanzanite Ring | Van Cleef & Arpels | Jewels & Time",
+      "metaDesc": "Shop art deco tanzanite ring from Van Cleef & Arpels. Premium Sterling Silver jewelry with Tanzanite.",
+      "keywords": [
+        "sterling silver",
+        "tanzanite",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-06T21:01:33.707Z",
+      "updatedAt": "2025-12-27T22:26:53.313Z",
+      "publishedAt": "2025-12-27T22:26:53.313Z",
+      "viewCount": 331
+    },
+    {
+      "id": "294901a8-e556-4a9d-8de6-0fe7898ae213",
+      "sku": "JT-0031",
+      "name": "Cable Hoop Earrings",
+      "description": "Exquisite cable hoop earrings crafted with precision and luxury. This stunning piece features larimar set in 24K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar Gold jewelry piece from John Hardy",
+      "price": 10100,
+      "comparePrice": 12625,
+      "brandId": "708d3ebc-b630-4605-b5d3-0750d742ea22",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "24K",
+      "gemstone": "Larimar",
+      "ringSize": "5",
+      "images": [
+        {
+          "id": "81daaf49-a8e0-44dc-85a1-d79320c238fc",
+          "productId": "294901a8-e556-4a9d-8de6-0fe7898ae213",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Cable Hoop Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "ef02264b-deba-4d45-9cc8-55520cdd2c6b",
+          "productId": "294901a8-e556-4a9d-8de6-0fe7898ae213",
+          "url": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cable Hoop Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "d106ddbc-8800-477a-a341-f7d33e452a49",
+          "productId": "294901a8-e556-4a9d-8de6-0fe7898ae213",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cable Hoop Earrings - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": true,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+        "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+        "210d98b1-be63-497e-8e91-7fa826571ecc",
+        "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e"
+      ],
+      "inStock": false,
+      "storeLocation": "Montego Bay",
+      "slug": "cable-hoop-earrings",
+      "metaTitle": "Cable Hoop Earrings | John Hardy | Jewels & Time",
+      "metaDesc": "Shop cable hoop earrings from John Hardy. Premium Gold jewelry with Larimar.",
+      "keywords": [
+        "gold",
+        "larimar",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-07T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.612Z",
+      "publishedAt": "2025-12-27T21:12:35.612Z",
+      "viewCount": 458
+    },
+    {
+      "id": "71725ae8-cb4e-40da-9dd1-c2f51115b9c5",
+      "sku": "JT-0032",
+      "name": "Emerald Pendant",
+      "description": "Exquisite emerald pendant crafted with precision and luxury. This stunning piece features ruby set in 925 Sterling white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby White Gold jewelry piece from Tacori",
+      "price": 8900,
+      "brandId": "f38f8897-15bc-4618-bc67-3f43a008d53b",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Ruby",
+      "images": [
+        {
+          "id": "6f5c1b17-d665-4379-ac31-e35f997b6128",
+          "productId": "71725ae8-cb4e-40da-9dd1-c2f51115b9c5",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Emerald Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6172e08e-cf4c-4a71-921c-0bbe90558e37",
+          "productId": "71725ae8-cb4e-40da-9dd1-c2f51115b9c5",
+          "url": "https://images.unsplash.com/photo-1612343739664-e33ec0f28ead?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Emerald Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+        "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+        "451eb468-feb0-4b68-b506-000dfd38ea69",
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "emerald-pendant",
+      "metaTitle": "Emerald Pendant | Tacori | Jewels & Time",
+      "metaDesc": "Shop emerald pendant from Tacori. Premium White Gold jewelry with Ruby.",
+      "keywords": [
+        "white gold",
+        "ruby",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-08T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.608Z",
+      "publishedAt": "2025-12-27T21:12:35.607Z",
+      "viewCount": 1
+    },
+    {
+      "id": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+      "sku": "JT-0033",
+      "name": "Pave Diamond Band",
+      "description": "Exquisite pave diamond band crafted with precision and luxury. This stunning piece features sapphire set in 14K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire Rose Gold jewelry piece from Larimar & Silver",
+      "price": 7700,
+      "brandId": "25647fec-c3c5-486d-9e34-fec6089ce056",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "14K",
+      "gemstone": "Sapphire",
+      "images": [
+        {
+          "id": "17034bd2-3d2c-4835-beb5-7ee828d654de",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Pave Diamond Band - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "b03ec105-ad88-49da-973e-a74e69b69cd5",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pave Diamond Band - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "ddc731e7-b01f-4155-9bef-69cbbcc2c86a",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pave Diamond Band - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "0d9ba6a6-937e-4fec-9a51-b8a1b9da4b96",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pave Diamond Band - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+        "c93fce34-953d-4986-9e72-9383a3ea0977",
+        "dd700d39-4104-42d1-85de-d643e19ed8cc"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "pave-diamond-band",
+      "metaTitle": "Pave Diamond Band | Larimar & Silver | Jewels & Time",
+      "metaDesc": "Shop pave diamond band from Larimar & Silver. Premium Rose Gold jewelry with Sapphire.",
+      "keywords": [
+        "rose gold",
+        "sapphire",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": true,
+      "isNew": false,
+      "createdAt": "2025-12-09T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.603Z",
+      "publishedAt": "2025-12-27T21:12:35.602Z",
+      "viewCount": 229
+    },
+    {
+      "id": "5de50483-3bd0-40f3-9db1-558042ab5d01",
+      "sku": "JT-0034",
+      "name": "Larimar Cuff Bracelet",
+      "description": "Exquisite larimar cuff bracelet crafted with precision and luxury. This stunning piece features emerald set in 18K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald Platinum jewelry piece from Tanzanite One",
+      "price": 11200,
+      "comparePrice": 14000,
+      "brandId": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "18K",
+      "gemstone": "Emerald",
+      "images": [
+        {
+          "id": "0c87f8fc-d22f-40d6-a71c-abd3edbd3c55",
+          "productId": "5de50483-3bd0-40f3-9db1-558042ab5d01",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Larimar Cuff Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "5e9cf0e9-4691-497a-96c0-3eb1a9737155",
+          "productId": "5de50483-3bd0-40f3-9db1-558042ab5d01",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Larimar Cuff Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "e8c7a980-ec35-4466-bb1b-9ebfc1d2914f",
+          "productId": "5de50483-3bd0-40f3-9db1-558042ab5d01",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Larimar Cuff Bracelet - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+        "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+        "2416a1d4-a8e7-4945-b69f-73b91e9bd411"
+      ],
+      "relatedProductIds": [
+        "8d4253df-677f-4713-84e1-528fe671b31f",
+        "06ebeca4-6e9f-4f77-bbed-fc4d40c11ba9",
+        "74e83af2-f428-4d62-a4e8-54cfab1e2379",
+        "91e5ca4a-0d5c-4d4f-927f-250d38b80fde"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "larimar-cuff-bracelet",
+      "metaTitle": "Larimar Cuff Bracelet | Tanzanite One | Jewels & Time",
+      "metaDesc": "Shop larimar cuff bracelet from Tanzanite One. Premium Platinum jewelry with Emerald.",
+      "keywords": [
+        "platinum",
+        "emerald",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-10T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.599Z",
+      "publishedAt": "2025-12-27T21:12:35.598Z",
+      "viewCount": 206
+    },
+    {
+      "id": "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+      "sku": "JT-0035",
+      "name": "Vintage Filigree Ring",
+      "description": "Exquisite vintage filigree ring crafted with precision and luxury. This stunning piece features pearl set in 24K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl Sterling Silver jewelry piece from Cartier",
+      "price": 11900,
+      "brandId": "4d0ee164-8234-4adf-b682-3b58e299e8fb",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "24K",
+      "gemstone": "Pearl",
+      "images": [
+        {
+          "id": "49fc654f-6645-41cb-bfa2-9fb8b8d22179",
+          "productId": "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Vintage Filigree Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "5afb5786-5dba-4f94-bff9-c4de0f444a09",
+          "productId": "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Vintage Filigree Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "15bbd588-9188-4e54-8afb-20c9518cb200",
+          "productId": "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+          "url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Vintage Filigree Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+        "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+        "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+        "1d097b85-6340-42ca-acf1-7a1726547ffc"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "vintage-filigree-ring",
+      "metaTitle": "Vintage Filigree Ring | Cartier | Jewels & Time",
+      "metaDesc": "Shop vintage filigree ring from Cartier. Premium Sterling Silver jewelry with Pearl.",
+      "keywords": [
+        "sterling silver",
+        "pearl",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-11T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.594Z",
+      "publishedAt": "2025-12-27T21:12:35.593Z",
+      "viewCount": 29
+    },
+    {
+      "id": "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+      "sku": "JT-0036",
+      "name": "Station Necklace",
+      "description": "Exquisite station necklace crafted with precision and luxury. This stunning piece features diamond set in 925 Sterling gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Gold jewelry piece from Tiffany & Co",
+      "price": 9300,
+      "brandId": "77ae43ea-42ce-424f-a3ba-7111e6617273",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 0.8942321269278828,
+      "ringSize": "10",
+      "images": [
+        {
+          "id": "809d112e-eb37-4464-a00f-890c0f7baaaf",
+          "productId": "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+          "url": "https://images.unsplash.com/photo-1605100804957-7f49568af8f4?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Station Necklace - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "5e6d6e2a-11a5-49cf-b517-a2df818d1436",
+          "productId": "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Station Necklace - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+        "294901a8-e556-4a9d-8de6-0fe7898ae213",
+        "2db2faf3-e581-4982-bdae-bbbf5307495d",
+        "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "station-necklace",
+      "metaTitle": "Station Necklace | Tiffany & Co | Jewels & Time",
+      "metaDesc": "Shop station necklace from Tiffany & Co. Premium Gold jewelry with Diamond.",
+      "keywords": [
+        "gold",
+        "diamond",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-12T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.571Z",
+      "publishedAt": "2025-12-27T21:12:35.570Z",
+      "viewCount": 190
+    },
+    {
+      "id": "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+      "sku": "JT-0037",
+      "name": "Diamond Huggie Hoops",
+      "description": "Exquisite diamond huggie hoops crafted with precision and luxury. This stunning piece features tanzanite set in 14K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite White Gold jewelry piece from David Yurman",
+      "price": 10400,
+      "comparePrice": 13000,
+      "brandId": "abdc55c2-0fd9-4073-aa64-523948005555",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "14K",
+      "gemstone": "Tanzanite",
+      "images": [
+        {
+          "id": "d8e6bcce-6d57-4384-81e2-632836ab3445",
+          "productId": "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Huggie Hoops - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6a6bc32d-c693-4b8e-b869-a7eb8a8978ae",
+          "productId": "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Huggie Hoops - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "459c211b-e439-46d3-b462-af4bf2fd6dc3",
+          "productId": "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Huggie Hoops - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "71f8a187-bec3-485f-85f7-f833f7d77441",
+          "productId": "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Huggie Hoops - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "451eb468-feb0-4b68-b506-000dfd38ea69",
+        "71725ae8-cb4e-40da-9dd1-c2f51115b9c5",
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "diamond-huggie-hoops",
+      "metaTitle": "Diamond Huggie Hoops | David Yurman | Jewels & Time",
+      "metaDesc": "Shop diamond huggie hoops from David Yurman. Premium White Gold jewelry with Tanzanite.",
+      "keywords": [
+        "white gold",
+        "tanzanite",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-13T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.567Z",
+      "publishedAt": "2025-12-27T21:12:35.566Z",
+      "viewCount": 139
+    },
+    {
+      "id": "df0a7cca-b53c-4d78-b1b2-581e79f3285c",
+      "sku": "JT-0038",
+      "name": "Moonstone Ring",
+      "description": "Exquisite moonstone ring crafted with precision and luxury. This stunning piece features larimar set in 18K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar Rose Gold jewelry piece from Mikimoto",
+      "price": 11700,
+      "brandId": "725b4d93-d583-420e-828b-0b661b7231b7",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "18K",
+      "gemstone": "Larimar",
+      "images": [
+        {
+          "id": "36e00a05-0e47-42dd-b291-5305585e71cc",
+          "productId": "df0a7cca-b53c-4d78-b1b2-581e79f3285c",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Moonstone Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "52b76737-0346-45f9-b232-01c82837f5d4",
+          "productId": "df0a7cca-b53c-4d78-b1b2-581e79f3285c",
+          "url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Moonstone Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "7cce3c0d-a253-4118-a2c8-90bc9637390d",
+          "productId": "df0a7cca-b53c-4d78-b1b2-581e79f3285c",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Moonstone Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "d831c3bd-4568-4425-a2c4-a1dc753b13c1",
+        "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+        "2416a1d4-a8e7-4945-b69f-73b91e9bd411"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "moonstone-ring",
+      "metaTitle": "Moonstone Ring | Mikimoto | Jewels & Time",
+      "metaDesc": "Shop moonstone ring from Mikimoto. Premium Rose Gold jewelry with Larimar.",
+      "keywords": [
+        "rose gold",
+        "larimar",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-14T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.563Z",
+      "publishedAt": "2025-12-27T21:12:35.562Z",
+      "viewCount": 390
+    },
+    {
+      "id": "74e83af2-f428-4d62-a4e8-54cfab1e2379",
+      "sku": "JT-0039",
+      "name": "Pearl Bracelet",
+      "description": "Exquisite pearl bracelet crafted with precision and luxury. This stunning piece features ruby set in 24K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby Platinum jewelry piece from Bulgari",
+      "price": 8900,
+      "brandId": "838ff2c8-7adf-41aa-b86b-1da1a870d553",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "24K",
+      "gemstone": "Ruby",
+      "images": [
+        {
+          "id": "714d07c8-2341-4816-86a5-c6033cd0e32c",
+          "productId": "74e83af2-f428-4d62-a4e8-54cfab1e2379",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Pearl Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "b1f45220-474a-4278-bbc6-1b0e41b9413c",
+          "productId": "74e83af2-f428-4d62-a4e8-54cfab1e2379",
+          "url": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [
+        "46b98270-5455-419b-9263-1235d4fed339",
+        "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee"
+      ],
+      "relatedProductIds": [
+        "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+        "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+        "5de50483-3bd0-40f3-9db1-558042ab5d01",
+        "8d4253df-677f-4713-84e1-528fe671b31f"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "pearl-bracelet",
+      "metaTitle": "Pearl Bracelet | Bulgari | Jewels & Time",
+      "metaDesc": "Shop pearl bracelet from Bulgari. Premium Platinum jewelry with Ruby.",
+      "keywords": [
+        "platinum",
+        "ruby",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-15T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.558Z",
+      "publishedAt": "2025-12-27T21:12:35.557Z",
+      "viewCount": 348
+    },
+    {
+      "id": "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+      "sku": "JT-0040",
+      "name": "Diamond Bypass Ring",
+      "description": "Exquisite diamond bypass ring crafted with precision and luxury. This stunning piece features sapphire set in 925 Sterling sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire Sterling Silver jewelry piece from Van Cleef & Arpels",
+      "price": 10300,
+      "comparePrice": 12875,
+      "brandId": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Sapphire",
+      "images": [
+        {
+          "id": "76615ff6-6bc8-44ce-bc80-c732e206d7fb",
+          "productId": "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+          "url": "https://images.unsplash.com/photo-1612343739664-e33ec0f28ead?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Bypass Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "890531a6-ff88-4a29-97e9-f5dce0da43e3",
+          "productId": "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+          "url": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Bypass Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "8f4ce5be-f911-4f87-9864-f0b768d558c4",
+          "productId": "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+          "url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Bypass Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+        "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+        "1d097b85-6340-42ca-acf1-7a1726547ffc",
+        "f0ae009f-a819-495c-93a1-c6bf5cf66cdb"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "diamond-bypass-ring",
+      "metaTitle": "Diamond Bypass Ring | Van Cleef & Arpels | Jewels & Time",
+      "metaDesc": "Shop diamond bypass ring from Van Cleef & Arpels. Premium Sterling Silver jewelry with Sapphire.",
+      "keywords": [
+        "sterling silver",
+        "sapphire",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2025-12-16T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.553Z",
+      "publishedAt": "2025-12-27T21:12:35.552Z",
+      "viewCount": 326
+    },
+    {
+      "id": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+      "sku": "JT-0041",
+      "name": "Tanzanite Studs",
+      "description": "Exquisite tanzanite studs crafted with precision and luxury. This stunning piece features emerald set in 14K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald Gold jewelry piece from John Hardy",
+      "price": 9300,
+      "brandId": "708d3ebc-b630-4605-b5d3-0750d742ea22",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "14K",
+      "gemstone": "Emerald",
+      "ringSize": "9",
+      "images": [
+        {
+          "id": "b6f7c018-6613-492a-871f-97e8ced309ef",
+          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Tanzanite Studs - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "1bd51a8c-e1b2-4bb8-9bbc-a285fda23f3b",
+          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+          "url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Tanzanite Studs - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": true,
+      "groupedProductIds": [
+        "df6d851f-9581-42dd-8f05-b22ff8334d18",
+        "dd700d39-4104-42d1-85de-d643e19ed8cc"
+      ],
+      "relatedProductIds": [
+        "2db2faf3-e581-4982-bdae-bbbf5307495d",
+        "210d98b1-be63-497e-8e91-7fa826571ecc",
+        "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+        "8f2a23f2-df2b-48b1-a6fb-57505f493932"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "tanzanite-studs",
+      "metaTitle": "Tanzanite Studs | John Hardy | Jewels & Time",
+      "metaDesc": "Shop tanzanite studs from John Hardy. Premium Gold jewelry with Emerald.",
+      "keywords": [
+        "gold",
+        "emerald",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": true,
+      "isNew": true,
+      "createdAt": "2025-12-17T21:01:33.707Z",
+      "updatedAt": "2026-02-04T21:27:50.865Z",
+      "publishedAt": "2025-12-27T21:12:35.548Z",
+      "viewCount": 203
+    },
+    {
+      "id": "451eb468-feb0-4b68-b506-000dfd38ea69",
+      "sku": "JT-0042",
+      "name": "Gold Mesh Bracelet",
+      "description": "Exquisite gold mesh bracelet crafted with precision and luxury. This stunning piece features pearl set in 18K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl White Gold jewelry piece from Tacori",
+      "price": 9400,
+      "brandId": "f38f8897-15bc-4618-bc67-3f43a008d53b",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "18K",
+      "gemstone": "Pearl",
+      "images": [
+        {
+          "id": "2e90f1c4-636c-4616-9842-767783ceca64",
+          "productId": "451eb468-feb0-4b68-b506-000dfd38ea69",
+          "url": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Gold Mesh Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "02da252e-0ff5-40c5-909a-0d9964477846",
+          "productId": "451eb468-feb0-4b68-b506-000dfd38ea69",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Gold Mesh Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+        "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+        "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+        "71725ae8-cb4e-40da-9dd1-c2f51115b9c5"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "gold-mesh-bracelet",
+      "metaTitle": "Gold Mesh Bracelet | Tacori | Jewels & Time",
+      "metaDesc": "Shop gold mesh bracelet from Tacori. Premium White Gold jewelry with Pearl.",
+      "keywords": [
+        "white gold",
+        "pearl",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-18T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.545Z",
+      "publishedAt": "2025-12-27T21:12:35.545Z",
+      "viewCount": 212
+    },
+    {
+      "id": "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+      "sku": "JT-0043",
+      "name": "Clover Pendant",
+      "description": "Exquisite clover pendant crafted with precision and luxury. This stunning piece features diamond set in 24K rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Rose Gold jewelry piece from Larimar & Silver",
+      "price": 13400,
+      "comparePrice": 16750,
+      "brandId": "25647fec-c3c5-486d-9e34-fec6089ce056",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "24K",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 1.3265560099205733,
+      "images": [
+        {
+          "id": "ebd1766e-b32a-46fc-9b5c-9c86c2768c21",
+          "productId": "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Clover Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "3e3de925-61c2-4b49-b362-ada0f5c38a04",
+          "productId": "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Clover Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "37d2f6fa-74af-4dd9-a2e7-5db4632fdb58",
+          "productId": "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+          "url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Clover Pendant - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "df0a7cca-b53c-4d78-b1b2-581e79f3285c",
+        "d831c3bd-4568-4425-a2c4-a1dc753b13c1"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "clover-pendant",
+      "metaTitle": "Clover Pendant | Larimar & Silver | Jewels & Time",
+      "metaDesc": "Shop clover pendant from Larimar & Silver. Premium Rose Gold jewelry with Diamond.",
+      "keywords": [
+        "rose gold",
+        "diamond",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-19T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.542Z",
+      "publishedAt": "2025-12-27T21:12:35.542Z",
+      "viewCount": 174
+    },
+    {
+      "id": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+      "sku": "JT-0044",
+      "name": "Princess Cut Diamond Ring",
+      "description": "Exquisite princess cut diamond ring crafted with precision and luxury. This stunning piece features tanzanite set in 925 Sterling platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Tanzanite Platinum jewelry piece from Tanzanite One",
+      "price": 9100,
+      "brandId": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Tanzanite",
+      "images": [
+        {
+          "id": "48fa6efe-77e6-4870-aab9-d6036fd42e1b",
+          "productId": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Princess Cut Diamond Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "3197049c-905f-4629-890e-303c674d713e",
+          "productId": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Princess Cut Diamond Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "8cfdd364-1e9b-46fa-a062-c07df8153e27",
+          "productId": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Princess Cut Diamond Ring - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "ec560a54-cee1-435d-8932-9548f7b8a5f8",
+          "productId": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Princess Cut Diamond Ring - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "5de50483-3bd0-40f3-9db1-558042ab5d01",
+        "8d4253df-677f-4713-84e1-528fe671b31f",
+        "74e83af2-f428-4d62-a4e8-54cfab1e2379",
+        "ab4dddaa-ad54-4524-972d-9f7c0b99aff3"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "princess-cut-diamond-ring",
+      "metaTitle": "Princess Cut Diamond Ring | Tanzanite One | Jewels & Time",
+      "metaDesc": "Shop princess cut diamond ring from Tanzanite One. Premium Platinum jewelry with Tanzanite.",
+      "keywords": [
+        "platinum",
+        "tanzanite",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-20T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.538Z",
+      "publishedAt": "2025-12-27T21:12:35.537Z",
+      "viewCount": 262
+    },
+    {
+      "id": "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+      "sku": "JT-0045",
+      "name": "Larimar Silver Cuff",
+      "description": "Exquisite larimar silver cuff crafted with precision and luxury. This stunning piece features larimar set in 14K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Larimar Sterling Silver jewelry piece from Cartier",
+      "price": 12000,
+      "brandId": "4d0ee164-8234-4adf-b682-3b58e299e8fb",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "14K",
+      "gemstone": "Larimar",
+      "images": [
+        {
+          "id": "956f091c-47c7-4251-8da7-6f2f18490702",
+          "productId": "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+          "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Larimar Silver Cuff - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "0716980f-ff8e-4c98-96ba-46cd98fb0e25",
+          "productId": "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+          "url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Larimar Silver Cuff - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+        "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+        "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
+        "1d097b85-6340-42ca-acf1-7a1726547ffc"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "larimar-silver-cuff",
+      "metaTitle": "Larimar Silver Cuff | Cartier | Jewels & Time",
+      "metaDesc": "Shop larimar silver cuff from Cartier. Premium Sterling Silver jewelry with Larimar.",
+      "keywords": [
+        "sterling silver",
+        "larimar",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-21T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.534Z",
+      "publishedAt": "2025-12-27T21:12:35.533Z",
+      "viewCount": 191
+    },
+    {
+      "id": "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+      "sku": "JT-0046",
+      "name": "Ruby Tennis Bracelet",
+      "description": "Exquisite ruby tennis bracelet crafted with precision and luxury. This stunning piece features ruby set in 18K gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Ruby Gold jewelry piece from Tiffany & Co",
+      "price": 11200,
+      "comparePrice": 14000,
+      "brandId": "77ae43ea-42ce-424f-a3ba-7111e6617273",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "subcategoryId": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "metalType": "Gold",
+      "metalPurity": "18K",
+      "gemstone": "Ruby",
+      "ringSize": "8",
+      "images": [
+        {
+          "id": "93b74697-c477-4f88-bf9b-c76abc56d5ee",
+          "productId": "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+          "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Ruby Tennis Bracelet - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "bbe7d5d8-7dfb-4469-9326-f1daf89147fa",
+          "productId": "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+          "url": "https://images.unsplash.com/photo-1605100804957-7f49568af8f4?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Ruby Tennis Bracelet - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6853c5d5-43d2-4a2d-acef-1257699ca9e5",
+          "productId": "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Ruby Tennis Bracelet - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+        "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+        "294901a8-e556-4a9d-8de6-0fe7898ae213"
+      ],
+      "inStock": false,
+      "storeLocation": "Ocho Rios",
+      "slug": "ruby-tennis-bracelet",
+      "metaTitle": "Ruby Tennis Bracelet | Tiffany & Co | Jewels & Time",
+      "metaDesc": "Shop ruby tennis bracelet from Tiffany & Co. Premium Gold jewelry with Ruby.",
+      "keywords": [
+        "gold",
+        "ruby",
+        "rings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-22T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.530Z",
+      "publishedAt": "2025-12-27T21:12:35.529Z",
+      "viewCount": 115
+    },
+    {
+      "id": "796f4df5-2b97-4f98-90b0-396a4b187c63",
+      "sku": "JT-0047",
+      "name": "Diamond Chandelier Earrings",
+      "description": "Exquisite diamond chandelier earrings crafted with precision and luxury. This stunning piece features sapphire set in 24K white gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Sapphire White Gold jewelry piece from David Yurman",
+      "price": 13900,
+      "brandId": "abdc55c2-0fd9-4073-aa64-523948005555",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "metalType": "White Gold",
+      "metalPurity": "24K",
+      "gemstone": "Sapphire",
+      "images": [
+        {
+          "id": "24b8b007-d4bf-4631-a865-8a475dac984a",
+          "productId": "796f4df5-2b97-4f98-90b0-396a4b187c63",
+          "url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Diamond Chandelier Earrings - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "c773853f-9d35-40f1-8427-bf3bd12e0742",
+          "productId": "796f4df5-2b97-4f98-90b0-396a4b187c63",
+          "url": "https://images.unsplash.com/photo-1588444650921-a23d2e959c92?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Chandelier Earrings - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "309fa785-35be-4dd0-8cab-9581ae6cbdf6",
+          "productId": "796f4df5-2b97-4f98-90b0-396a4b187c63",
+          "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f99?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Diamond Chandelier Earrings - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "0aab6b8d-e747-43da-8fd8-59bf65aa7d04"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "diamond-chandelier-earrings",
+      "metaTitle": "Diamond Chandelier Earrings | David Yurman | Jewels & Time",
+      "metaDesc": "Shop diamond chandelier earrings from David Yurman. Premium White Gold jewelry with Sapphire.",
+      "keywords": [
+        "white gold",
+        "sapphire",
+        "necklaces",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-23T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.526Z",
+      "publishedAt": "2025-12-27T21:12:35.526Z",
+      "viewCount": 1
+    },
+    {
+      "id": "d831c3bd-4568-4425-a2c4-a1dc753b13c1",
+      "sku": "JT-0048",
+      "name": "Cable Twist Ring",
+      "description": "Exquisite cable twist ring crafted with precision and luxury. This stunning piece features emerald set in 925 Sterling rose gold, perfect for the discerning jewelry lover.",
+      "shortDesc": "Emerald Rose Gold jewelry piece from Mikimoto",
+      "price": 14300,
+      "brandId": "725b4d93-d583-420e-828b-0b661b7231b7",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "Rose Gold",
+      "metalPurity": "925 Sterling",
+      "gemstone": "Emerald",
+      "images": [
+        {
+          "id": "07651272-d191-4e86-ba44-d40b2f394c18",
+          "productId": "d831c3bd-4568-4425-a2c4-a1dc753b13c1",
+          "url": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Cable Twist Ring - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "6e2d3cc4-362a-42c7-bdb4-c4e7519d9619",
+          "productId": "d831c3bd-4568-4425-a2c4-a1dc753b13c1",
+          "url": "https://images.unsplash.com/photo-1601121141418-3e0a3e7c09e0?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Cable Twist Ring - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+        "df0a7cca-b53c-4d78-b1b2-581e79f3285c"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "cable-twist-ring",
+      "metaTitle": "Cable Twist Ring | Mikimoto | Jewels & Time",
+      "metaDesc": "Shop cable twist ring from Mikimoto. Premium Rose Gold jewelry with Emerald.",
+      "keywords": [
+        "rose gold",
+        "emerald",
+        "bracelets",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-24T21:01:33.707Z",
+      "updatedAt": "2025-12-27T21:12:35.524Z",
+      "publishedAt": "2025-12-27T21:12:35.523Z",
+      "viewCount": 363
+    },
+    {
+      "id": "06ebeca4-6e9f-4f77-bbed-fc4d40c11ba9",
+      "sku": "JT-0049",
+      "name": "Sapphire Pendant",
+      "description": "Exquisite sapphire pendant crafted with precision and luxury. This stunning piece features pearl set in 14K platinum, perfect for the discerning jewelry lover.",
+      "shortDesc": "Pearl Platinum jewelry piece from Bulgari",
+      "price": 13200,
+      "comparePrice": 16500,
+      "brandId": "838ff2c8-7adf-41aa-b86b-1da1a870d553",
+      "categoryId": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "metalType": "Platinum",
+      "metalPurity": "14K",
+      "gemstone": "Pearl",
+      "images": [
+        {
+          "id": "5de5c392-69bf-4cb7-a1a0-849095beb3b6",
+          "productId": "06ebeca4-6e9f-4f77-bbed-fc4d40c11ba9",
+          "url": "https://images.unsplash.com/photo-1612343739664-e33ec0f28ead?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Sapphire Pendant - Image 1",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "32ad4cff-caf1-49e5-958c-a212c9eea826",
+          "productId": "06ebeca4-6e9f-4f77-bbed-fc4d40c11ba9",
+          "url": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Sapphire Pendant - Image 2",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "b107f766-7346-4cd8-adfc-3a75e1932fdf",
+          "productId": "06ebeca4-6e9f-4f77-bbed-fc4d40c11ba9",
+          "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Sapphire Pendant - Image 3",
+          "sortOrder": 2,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "49a7a9c4-afac-4af0-9ee0-f35a1b53f97f",
+          "productId": "06ebeca4-6e9f-4f77-bbed-fc4d40c11ba9",
+          "url": "https://images.unsplash.com/photo-1611652022419-a9419f74343a?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Sapphire Pendant - Image 4",
+          "sortOrder": 3,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "5de50483-3bd0-40f3-9db1-558042ab5d01"
+      ],
+      "inStock": true,
+      "storeLocation": "Montego Bay",
+      "slug": "sapphire-pendant",
+      "metaTitle": "Sapphire Pendant | Bulgari | Jewels & Time",
+      "metaDesc": "Shop sapphire pendant from Bulgari. Premium Platinum jewelry with Pearl.",
+      "keywords": [
+        "platinum",
+        "pearl",
+        "earrings",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": true,
+      "createdAt": "2025-12-25T21:01:33.707Z",
+      "updatedAt": "2025-12-28T02:53:56.222Z",
+      "publishedAt": "2025-12-28T03:00:00.515Z",
+      "viewCount": 468,
+      "tagIds": []
+    },
+    {
+      "id": "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
+      "sku": "JT-0050",
+      "name": "Pearl Hoop Earrings",
+      "description": "Exquisite pearl hoop earrings crafted with precision and luxury. This stunning piece features diamond set in 18K sterling silver, perfect for the discerning jewelry lover.",
+      "shortDesc": "Diamond Sterling Silver jewelry piece from Van Cleef & Arpels",
+      "price": 13900,
+      "brandId": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
+      "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "metalType": "Sterling Silver",
+      "metalPurity": "18K",
+      "gemstone": "Diamond",
+      "gemstoneWeight": 2.256502519834478,
+      "images": [
+        {
+          "id": "b2c6e406-ede4-4067-9c2e-6a816e628c27",
+          "productId": "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
+          "url": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=800&q=80",
+          "isPrimary": true,
+          "altText": "Pearl Hoop Earrings - Image 2",
+          "sortOrder": 0,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        },
+        {
+          "id": "1fffbc9f-633a-4bae-abc4-130f237ff3e6",
+          "productId": "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80",
+          "isPrimary": false,
+          "altText": "Pearl Hoop Earrings - Image 3",
+          "sortOrder": 1,
+          "createdAt": "2025-12-27T21:01:33.707Z"
+        }
+      ],
+      "has360View": false,
+      "groupedProductIds": [],
+      "relatedProductIds": [
+        "1d097b85-6340-42ca-acf1-7a1726547ffc",
+        "888e3b88-cbf9-4d40-a5d7-ad6814161c62",
+        "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+        "43f24436-68a8-41d0-a430-fcc2d525cb9f"
+      ],
+      "inStock": true,
+      "storeLocation": "Ocho Rios",
+      "slug": "pearl-hoop-earrings",
+      "metaTitle": "Pearl Hoop Earrings | Van Cleef & Arpels | Jewels & Time",
+      "metaDesc": "Shop pearl hoop earrings from Van Cleef & Arpels. Premium Sterling Silver jewelry with Diamond.",
+      "keywords": [
+        "sterling silver",
+        "diamond",
+        "watches",
+        "luxury",
+        "jamaica"
+      ],
+      "status": "PUBLISHED",
+      "featured": true,
+      "isNew": true,
+      "createdAt": "2025-12-26T21:01:33.707Z",
+      "updatedAt": "2026-02-04T21:10:06.502Z",
+      "publishedAt": null,
+      "viewCount": 492,
+      "comparePrice": 20000,
+      "tagIds": [
+        "e5f01878-5520-49a2-ba52-d3a0ff07b851",
+        "6efd6968-2776-4f99-80c8-633d8b91186a"
+      ]
+    },
+    {
+      "id": "39eab83a-d512-47ac-a262-88f4e8461165",
+      "sku": "JT-1029",
+      "name": "Pandora Bracelet",
+      "description": "<h1>Pandora Gold Bracelet</h1><p>This <strong>great </strong><em>sexy </em><u>elegant</u> bracelet is sure to impress the girl that you love!</p>",
+      "price": 189.99,
+      "comparePrice": 200,
+      "brandId": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "categoryId": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "metalType": "",
+      "metalPurity": "",
+      "gemstone": "",
+      "images": [
+        {
+          "id": "2d5705b1-cee2-4e53-9a0a-655a92fe2c90",
+          "productId": "39eab83a-d512-47ac-a262-88f4e8461165",
+          "url": "/uploads/ae7cde1f-478b-41aa-9891-f6e50e3b565d-large.webp",
+          "isPrimary": true,
+          "sortOrder": 0,
+          "createdAt": "2026-02-07T17:28:39.864Z"
+        }
+      ],
+      "has360View": false,
+      "inStock": true,
+      "slug": "pandora-bracelet-1",
+      "keywords": [],
+      "tagIds": [
+        "6efd6968-2776-4f99-80c8-633d8b91186a"
+      ],
+      "status": "PUBLISHED",
+      "featured": false,
+      "isNew": false,
+      "createdAt": "2026-02-07T17:28:39.738Z",
+      "updatedAt": "2026-02-07T17:30:22.722Z",
+      "publishedAt": null,
+      "viewCount": 2
+    }
+  ],
+  "brands": [
+    {
+      "id": "708d3ebc-b630-4605-b5d3-0750d742ea22",
+      "name": "John Hardy",
+      "slug": "john-hardy",
+      "description": "Luxury artisan jewelry from Bali",
+      "featured": true,
+      "createdAt": "2025-12-27T21:01:33.705Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "f38f8897-15bc-4618-bc67-3f43a008d53b",
+      "name": "Tacori",
+      "slug": "tacori",
+      "description": "American luxury jewelry and engagement rings",
+      "featured": true,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "25647fec-c3c5-486d-9e34-fec6089ce056",
+      "name": "Larimar & Silver",
+      "slug": "larimar-silver",
+      "description": "Caribbean gemstone jewelry",
+      "featured": true,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "1e63b05f-f380-4ef6-b99c-12d503f70f59",
+      "name": "Tanzanite One",
+      "slug": "tanzanite-one",
+      "description": "Rare tanzanite gemstone jewelry",
+      "featured": false,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "4d0ee164-8234-4adf-b682-3b58e299e8fb",
+      "name": "Cartier",
+      "slug": "cartier",
+      "description": "French luxury jewelry and watches",
+      "featured": true,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "77ae43ea-42ce-424f-a3ba-7111e6617273",
+      "name": "Tiffany & Co",
+      "slug": "tiffany-co",
+      "description": "Iconic American luxury jeweler",
+      "featured": true,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "abdc55c2-0fd9-4073-aa64-523948005555",
+      "name": "David Yurman",
+      "slug": "david-yurman",
+      "description": "Contemporary American jewelry",
+      "featured": false,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "725b4d93-d583-420e-828b-0b661b7231b7",
+      "name": "Mikimoto",
+      "slug": "mikimoto",
+      "description": "Premier cultured pearl jewelry",
+      "featured": false,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "838ff2c8-7adf-41aa-b86b-1da1a870d553",
+      "name": "Bulgari",
+      "slug": "bulgari",
+      "description": "Italian luxury jewelry and watches",
+      "featured": false,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
+      "name": "Van Cleef & Arpels",
+      "slug": "van-cleef-arpels",
+      "description": "French haute joaillerie",
+      "featured": false,
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "name": "Rings",
+      "slug": "rings",
+      "description": "Engagement rings, wedding bands, and fashion rings",
+      "icon": "💍",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "name": "Necklaces",
+      "slug": "necklaces",
+      "description": "Pendants, chains, and statement necklaces",
+      "icon": "📿",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "9f86bbac-b25e-4d38-af4a-dcb5d6c9c211",
+      "name": "Bracelets",
+      "slug": "bracelets",
+      "description": "Bangles, tennis bracelets, and charm bracelets",
+      "icon": "⌚",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "55783b52-9d15-4cad-b343-9da211e18dbc",
+      "name": "Earrings",
+      "slug": "earrings",
+      "description": "Studs, hoops, and drop earrings",
+      "icon": "👂",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
+      "name": "Watches",
+      "slug": "watches",
+      "description": "Luxury timepieces",
+      "icon": "⌚",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "0c4a246e-6cdf-45ad-9bde-a6533583c0f2",
+      "name": "Engagement Rings",
+      "slug": "engagement-rings",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "cf620a27-310a-4c4c-85a2-b6451361ea97",
+      "name": "Wedding Bands",
+      "slug": "wedding-bands",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "a6859931-b65c-48ff-99fa-26d72959c8cd",
+      "name": "Fashion Rings",
+      "slug": "fashion-rings",
+      "categoryId": "6f48c285-4274-4f01-9066-3d75b0e26107",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "4473590a-966e-434b-a69f-48e438b47e0d",
+      "name": "Pendant Necklaces",
+      "slug": "pendant-necklaces",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "56664280-067e-4762-92a6-584271191861",
+      "name": "Chain Necklaces",
+      "slug": "chain-necklaces",
+      "categoryId": "a1167d5e-e52b-4e64-a893-b4acffca7060",
+      "createdAt": "2025-12-27T21:01:33.706Z",
+      "updatedAt": "2025-12-27T21:01:33.706Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": "e5f01878-5520-49a2-ba52-d3a0ff07b851",
+      "name": "Luxury",
+      "slug": "luxury",
+      "description": "",
+      "color": "#3B82F6",
+      "featured": false,
+      "createdAt": "2025-12-28T01:50:05.547Z",
+      "updatedAt": "2025-12-28T02:45:20.214Z"
+    },
+    {
+      "id": "6efd6968-2776-4f99-80c8-633d8b91186a",
+      "name": "New Arrilval",
+      "slug": "new-arrilval",
+      "description": "",
+      "color": "#86f73b",
+      "featured": true,
+      "createdAt": "2025-12-28T01:50:15.521Z",
+      "updatedAt": "2025-12-28T02:45:28.873Z"
+    },
+    {
+      "id": "82db5456-f8b0-4d00-b7c0-9ec685cad182",
+      "name": "Trending",
+      "slug": "trending",
+      "description": "",
+      "color": "#ac3bf7",
+      "featured": true,
+      "createdAt": "2025-12-28T02:45:09.901Z",
+      "updatedAt": "2025-12-28T02:45:09.901Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "cfec4ada-0edd-4dd8-9d65-90ee3bc1ba5d",
+      "name": "Lead Customer 1",
+      "email": "lead1@example.com",
+      "phone": "+1-876-1409601",
+      "source": "WEBSITE",
+      "status": "NEW",
+      "score": 0,
+      "message": "I'm interested in Classic Solitaire Diamond Ring. Please contact me with more details.",
+      "wishlistId": "fc281b11-9eb5-4078-aecf-d4eb1ec8262b",
+      "utmSource": "google",
+      "utmMedium": "cpc",
+      "utmCampaign": "luxury-jewelry-2024",
+      "createdAt": "2025-11-02T23:48:56.638Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "3bc92575-4492-4763-bea9-798bc19d6af2",
+      "name": "Lead Customer 2",
+      "email": "lead2@example.com",
+      "source": "WISHLIST",
+      "status": "CONTACTED",
+      "score": 0,
+      "wishlistId": "372c5836-f04f-49f2-9ffd-18e2b5cb98e0",
+      "createdAt": "2025-11-26T17:45:07.412Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "f1ab2fe7-e364-4d27-ae6f-502bb321394a",
+      "name": "Lead Customer 3",
+      "email": "lead3@example.com",
+      "phone": "+1-876-2124200",
+      "source": "CONTACT_FORM",
+      "status": "QUALIFIED",
+      "score": 0,
+      "wishlistId": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
+      "createdAt": "2025-11-19T19:39:19.033Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "dc78e7fc-cf9d-4063-8ae7-3c9a6aec69a6",
+      "name": "Lead Customer 4",
+      "email": "lead4@example.com",
+      "source": "PHONE",
+      "status": "SCHEDULED",
+      "score": 0,
+      "message": "I'm interested in Pearl Stud Earrings. Please contact me with more details.",
+      "wishlistId": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+      "createdAt": "2025-12-23T14:51:15.962Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "f3156cd6-ff9b-436a-ac61-30fcf165f187",
+      "name": "Lead Customer 5",
+      "email": "lead5@example.com",
+      "phone": "+1-876-9432001",
+      "source": "CHAT",
+      "status": "CONVERTED",
+      "score": 0,
+      "wishlistId": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+      "utmSource": "google",
+      "utmMedium": "cpc",
+      "utmCampaign": "luxury-jewelry-2024",
+      "createdAt": "2025-11-06T16:08:35.638Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "34c0370c-a124-46db-aff8-bc6076be462b",
+      "name": "Lead Customer 6",
+      "email": "lead6@example.com",
+      "source": "SOCIAL_MEDIA",
+      "status": "LOST",
+      "score": 0,
+      "wishlistId": "694055ce-16da-4c5d-8610-553d99424068",
+      "createdAt": "2025-11-19T15:21:20.856Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "a69099d8-4139-4e91-be97-33ec6dbd978f",
+      "name": "Lead Customer 7",
+      "email": "lead7@example.com",
+      "phone": "+1-876-8513793",
+      "source": "WALK_IN",
+      "status": "NEW",
+      "score": 0,
+      "message": "I'm interested in Larimar Ocean Wave Necklace. Please contact me with more details.",
+      "wishlistId": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+      "createdAt": "2025-11-24T10:15:07.635Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "4d4d5051-faad-4d85-90ff-1d505a2c5168",
+      "name": "Lead Customer 8",
+      "email": "lead8@example.com",
+      "source": "WEBSITE",
+      "status": "CONTACTED",
+      "score": 0,
+      "wishlistId": "dbfe5228-2efe-4f42-97b9-8511152fccc1",
+      "createdAt": "2025-12-10T16:38:47.280Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "e505f28c-8306-4ff4-a761-98fcb48f9f96",
+      "name": "Lead Customer 9",
+      "email": "lead9@example.com",
+      "phone": "+1-876-8126256",
+      "source": "WISHLIST",
+      "status": "QUALIFIED",
+      "score": 0,
+      "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+      "utmSource": "google",
+      "utmMedium": "cpc",
+      "utmCampaign": "luxury-jewelry-2024",
+      "createdAt": "2025-11-17T11:16:18.885Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "6913260f-e55b-468e-bc15-47ccf3b71cdd",
+      "name": "Lead Customer 10",
+      "email": "lead10@example.com",
+      "source": "CONTACT_FORM",
+      "status": "SCHEDULED",
+      "score": 0,
+      "message": "I'm interested in Love Knot Pendant. Please contact me with more details.",
+      "wishlistId": "4d37ff8c-3511-4e7e-9292-1e7ad0bee9eb",
+      "createdAt": "2025-11-11T00:47:46.199Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "e49a2613-6033-49bb-bc21-bd1e88ae8ad7",
+      "name": "Lead Customer 11",
+      "email": "lead11@example.com",
+      "phone": "+1-876-9350215",
+      "source": "PHONE",
+      "status": "CONVERTED",
+      "score": 0,
+      "createdAt": "2025-11-04T17:20:21.505Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "bf43dafc-07bb-4062-8577-632fc805b380",
+      "name": "Lead Customer 12",
+      "email": "lead12@example.com",
+      "source": "CHAT",
+      "status": "LOST",
+      "score": 0,
+      "createdAt": "2025-11-10T18:34:44.690Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "416bb112-2f95-4459-837b-14d5600c0248",
+      "name": "Lead Customer 13",
+      "email": "lead13@example.com",
+      "phone": "+1-876-3744364",
+      "source": "SOCIAL_MEDIA",
+      "status": "NEW",
+      "score": 0,
+      "message": "I'm interested in Tanzanite Halo Ring. Please contact me with more details.",
+      "utmSource": "google",
+      "utmMedium": "cpc",
+      "utmCampaign": "luxury-jewelry-2024",
+      "createdAt": "2025-11-17T16:09:23.667Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "43cf4218-16b8-4927-9c56-3da3ee6b4085",
+      "name": "Lead Customer 14",
+      "email": "lead14@example.com",
+      "source": "WALK_IN",
+      "status": "CONTACTED",
+      "score": 0,
+      "createdAt": "2025-11-30T23:24:26.963Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "b0bae923-4678-4137-97b9-7653f2f3e6a0",
+      "name": "Lead Customer 15",
+      "email": "lead15@example.com",
+      "phone": "+1-876-9920076",
+      "source": "WEBSITE",
+      "status": "QUALIFIED",
+      "score": 0,
+      "createdAt": "2025-12-04T14:01:36.859Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "27216f1d-cb86-4e47-9bf1-6b467f99431e",
+      "name": "Lead Customer 16",
+      "email": "lead16@example.com",
+      "source": "WISHLIST",
+      "status": "SCHEDULED",
+      "score": 0,
+      "message": "I'm interested in Three Stone Engagement Ring. Please contact me with more details.",
+      "createdAt": "2025-12-07T01:18:23.079Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "c0827ee8-9616-4bbc-931e-88e47bf90e6f",
+      "name": "Lead Customer 17",
+      "email": "lead17@example.com",
+      "phone": "+1-876-3303258",
+      "source": "CONTACT_FORM",
+      "status": "CONVERTED",
+      "score": 0,
+      "utmSource": "google",
+      "utmMedium": "cpc",
+      "utmCampaign": "luxury-jewelry-2024",
+      "createdAt": "2025-11-18T18:47:08.717Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "f578c30e-48c8-40a4-8807-a6906ed1607f",
+      "name": "Lead Customer 18",
+      "email": "lead18@example.com",
+      "source": "PHONE",
+      "status": "LOST",
+      "score": 0,
+      "createdAt": "2025-12-22T02:41:04.091Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "c63001e5-7cd1-437e-916e-25a0dc6d61d8",
+      "name": "Lead Customer 19",
+      "email": "lead19@example.com",
+      "phone": "+1-876-4460260",
+      "source": "CHAT",
+      "status": "NEW",
+      "score": 0,
+      "message": "I'm interested in Twisted Cable Bangle. Please contact me with more details.",
+      "createdAt": "2025-12-19T15:51:35.395Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "9cfea89c-888c-4854-8ae7-0e35da4de1ad",
+      "name": "Lead Customer 20",
+      "email": "lead20@example.com",
+      "source": "SOCIAL_MEDIA",
+      "status": "CONTACTED",
+      "score": 0,
+      "createdAt": "2025-12-20T02:08:53.450Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "580cb112-0c68-4d73-880c-549ce8c509d4",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "phone": "13039018502",
+      "source": "WISHLIST",
+      "status": "NEW",
+      "score": 25,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (4 pieces):\n- Tanzanite Studs by John Hardy ($9,300)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Gold Mesh Bracelet by Tacori ($9,400)\n- Emerald Pendant by Tacori ($8,900)\n\nTotal Value: $35,300\n\nPreferred Appointment: 2025-12-29 - morning\n\nLocation: Turtle Towers, Ocho Rios",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "createdAt": "2025-12-27T22:32:22.347Z",
+      "updatedAt": "2025-12-27T22:32:22.347Z"
+    },
+    {
+      "id": "28d734cb-e1e3-42fe-8920-89fc358fff33",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "phone": "13039018502",
+      "source": "WISHLIST",
+      "status": "CONVERTED",
+      "score": 25,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (4 pieces):\n- Tanzanite Studs by John Hardy ($9,300)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Gold Mesh Bracelet by Tacori ($9,400)\n- Emerald Pendant by Tacori ($8,900)\n\nTotal Value: $35,300\n\nPreferred Appointment: 2025-12-30 - afternoon\n\nLocation: Turtle Towers Hotel, Ocho Rios\n\nAdditional Notes: Testing wishlist",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "createdAt": "2025-12-27T22:32:54.964Z",
+      "updatedAt": "2026-02-06T18:59:14.151Z",
+      "assignedTo": "Sales Team"
+    },
+    {
+      "id": "3842a137-1e39-4932-a80f-c674b585beeb",
+      "name": "Suena Powell",
+      "email": "spowell@agmail.com",
+      "phone": "8765847635",
+      "source": "WISHLIST",
+      "status": "CONVERTED",
+      "score": 85,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (3 pieces):\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Tanzanite Studs by John Hardy ($9,300)\n- Byzantine Chain Necklace by Cartier ($6,400)\n\nTotal Value: $23,400\n\nPreferred Appointment: 2025-12-30 - afternoon\n\nLocation: Moon Palaca, Ocho Rios\n\nAdditional Notes: I like these can I try them on please",
+      "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "createdAt": "2025-12-28T00:57:56.629Z",
+      "updatedAt": "2025-12-28T00:59:35.493Z",
+      "assignedTo": "Sales Team"
+    },
+    {
+      "id": "b9f88c80-8b8e-4ed9-82ef-dd28220aedae",
+      "name": "John Doe",
+      "email": "jd@test.COM",
+      "phone": "8765774832",
+      "source": "WISHLIST",
+      "status": "CONVERTED",
+      "score": 95,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (4 pieces):\n- Byzantine Chain Necklace by Cartier ($6,400)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Tanzanite Studs by John Hardy ($9,300)\n- Cable Chain Bracelet by David Yurman ($4,900)\n\nTotal Value: $28,300\n\nPreferred Appointment: 2025-12-31 - afternoon\n\nLocation: 123 Main Street, Kingston",
+      "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "createdAt": "2025-12-29T19:27:51.918Z",
+      "updatedAt": "2026-02-07T17:23:00.593Z",
+      "assignedTo": "Admin"
+    },
+    {
+      "id": "de1727e6-f898-4d6b-94c2-fa57cd794fc0",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "phone": "13039018502",
+      "source": "WISHLIST",
+      "status": "CONTACTED",
+      "score": 40,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (1 pieces):\n- Pandora Bracelet by Tiffany & Co ($69.99)\n\nTotal Value: $69.99\n\nPreferred Appointment: 2026-02-05 - afternoon\n\nLocation: 551 Summit Trail, Granby",
+      "wishlistId": "2c4a1e51-07f7-4d11-9d3e-a4259889ecc3",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "createdAt": "2026-02-04T21:15:40.998Z",
+      "updatedAt": "2026-02-04T21:21:45.591Z",
+      "assignedTo": "Admin"
+    }
+  ],
+  "leadNotes": [
+    {
+      "id": "41ea6fff-8c97-484a-8ac7-99ada59937fb",
+      "leadId": "3842a137-1e39-4932-a80f-c674b585beeb",
+      "note": "This customer is a potential converted lead",
+      "createdBy": "Admin",
+      "createdAt": "2025-12-28T00:59:13.202Z"
+    }
+  ],
+  "wishlists": [
+    {
+      "id": "fc281b11-9eb5-4078-aecf-d4eb1ec8262b",
+      "name": "Wishlist 1",
+      "email": "customer1@example.com",
+      "shareToken": "6a0abbda-c097-41af-97ce-b8104ca1a24f",
+      "items": [
+        {
+          "id": "b83ec400-d486-42c9-8bac-92b29f664e73",
+          "wishlistId": "fc281b11-9eb5-4078-aecf-d4eb1ec8262b",
+          "productId": "b6886140-22ec-4733-8308-0c824f79092a",
+          "addedAt": "2025-12-03T16:33:14.938Z"
+        },
+        {
+          "id": "26eeb70b-127c-45c6-aed7-9be514d5c89f",
+          "wishlistId": "fc281b11-9eb5-4078-aecf-d4eb1ec8262b",
+          "productId": "df6d851f-9581-42dd-8f05-b22ff8334d18",
+          "addedAt": "2025-11-29T18:20:50.872Z"
+        }
+      ],
+      "createdAt": "2025-12-12T14:08:12.388Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "372c5836-f04f-49f2-9ffd-18e2b5cb98e0",
+      "name": "Wishlist 2",
+      "email": "customer2@example.com",
+      "shareToken": "dff19f09-a685-49c0-894b-9a616fcf4046",
+      "items": [
+        {
+          "id": "c58815d6-7e6f-4f5b-8419-850afa89e135",
+          "wishlistId": "372c5836-f04f-49f2-9ffd-18e2b5cb98e0",
+          "productId": "1148b169-df1f-42a6-baf7-7b93bc41f6b7",
+          "addedAt": "2025-12-26T10:23:50.814Z"
+        },
+        {
+          "id": "15e02ce2-e330-461e-9604-deb9ce46cf3e",
+          "wishlistId": "372c5836-f04f-49f2-9ffd-18e2b5cb98e0",
+          "productId": "a7755b8d-ffb8-4756-a9bc-191329b5f86f",
+          "addedAt": "2025-12-03T17:09:41.385Z"
+        },
+        {
+          "id": "998e988a-f85c-48dc-b845-53e77b40776e",
+          "wishlistId": "372c5836-f04f-49f2-9ffd-18e2b5cb98e0",
+          "productId": "239d3276-4a1d-4e08-bb70-ca8662ef6f8f",
+          "addedAt": "2025-11-28T21:46:22.704Z"
+        },
+        {
+          "id": "0587ab15-b8a8-4994-aaaa-50bdc2a3a0ef",
+          "wishlistId": "372c5836-f04f-49f2-9ffd-18e2b5cb98e0",
+          "productId": "347111ee-9852-4daf-9799-db311f675584",
+          "addedAt": "2025-12-14T12:32:24.183Z"
+        }
+      ],
+      "createdAt": "2025-12-11T09:27:09.809Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
+      "name": "Wishlist 3",
+      "email": "customer3@example.com",
+      "shareToken": "28c65a70-f137-4b91-b794-1995a01b1ce6",
+      "items": [
+        {
+          "id": "fae804f1-4988-4ba1-be83-c521877cacab",
+          "wishlistId": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
+          "productId": "aeb8ee7e-849c-42a7-8f84-1a6295d2e527",
+          "addedAt": "2025-11-28T02:54:56.993Z"
+        },
+        {
+          "id": "c368ce3d-fe62-45b8-81ab-8867fdbde481",
+          "wishlistId": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
+          "productId": "58ec48cb-8d4e-4f44-9dab-25f49f9eed61",
+          "addedAt": "2025-12-06T09:28:06.183Z"
+        },
+        {
+          "id": "02ea1286-98be-48cb-b8ff-51ce5a2cd6fb",
+          "wishlistId": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
+          "productId": "dd700d39-4104-42d1-85de-d643e19ed8cc",
+          "addedAt": "2025-12-12T10:30:17.102Z"
+        },
+        {
+          "id": "24269981-539a-448b-bc5a-708087fb56c7",
+          "wishlistId": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
+          "productId": "7fe4553d-8b54-49da-bb69-0ce8dbec97c5",
+          "addedAt": "2025-12-22T19:35:24.356Z"
+        }
+      ],
+      "createdAt": "2025-12-10T06:33:32.314Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+      "name": "Wishlist 4",
+      "email": "customer4@example.com",
+      "shareToken": "b35eb480-9b88-4f23-a51b-ca78a85e4ec9",
+      "items": [
+        {
+          "id": "2f6a5494-007c-45bf-8662-2cae45a70a1c",
+          "wishlistId": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+          "productId": "1f36cda5-cb72-4234-8975-f02b5378f75a",
+          "addedAt": "2025-12-08T14:33:33.792Z"
+        },
+        {
+          "id": "1f0492dd-50e5-4580-b750-bf379f5d67b3",
+          "wishlistId": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
+          "addedAt": "2025-12-09T16:07:18.267Z"
+        },
+        {
+          "id": "54b0d6d8-9eba-4de1-a59c-7557f74dcaf2",
+          "wishlistId": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+          "productId": "fa1fc14a-f453-40ef-bd40-ce0803d5734d",
+          "addedAt": "2025-12-10T04:30:09.600Z"
+        },
+        {
+          "id": "2e36855e-9787-4db0-af2f-eff9b8929c4a",
+          "wishlistId": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+          "productId": "ab4dddaa-ad54-4524-972d-9f7c0b99aff3",
+          "addedAt": "2025-12-06T09:11:43.037Z"
+        },
+        {
+          "id": "5c68f5fe-8647-4859-9942-4b81cae0949b",
+          "wishlistId": "3e2b64fa-fa2f-4de6-94fa-737bf0417c63",
+          "productId": "f0ae009f-a819-495c-93a1-c6bf5cf66cdb",
+          "addedAt": "2025-12-08T02:40:27.689Z"
+        }
+      ],
+      "createdAt": "2025-12-07T08:28:40.424Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+      "name": "Wishlist 5",
+      "email": "customer5@example.com",
+      "shareToken": "1aa1d886-0342-4ca0-bf07-de9c6e89c6c3",
+      "items": [
+        {
+          "id": "5a440d10-486e-40f5-ab48-564d648341a2",
+          "wishlistId": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+          "productId": "2db2faf3-e581-4982-bdae-bbbf5307495d",
+          "addedAt": "2025-12-22T13:09:30.360Z"
+        },
+        {
+          "id": "62f19f7b-7951-441a-914a-44fb53d00c89",
+          "wishlistId": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+          "productId": "fa03a9b7-5dc4-4e25-9ea3-971a8055f13c",
+          "addedAt": "2025-12-01T14:36:25.458Z"
+        },
+        {
+          "id": "05fb26e0-dfc3-43bd-a2e3-5511a138cb30",
+          "wishlistId": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+          "productId": "2416a1d4-a8e7-4945-b69f-73b91e9bd411",
+          "addedAt": "2025-12-22T11:59:40.633Z"
+        },
+        {
+          "id": "0cbfed87-3d00-4d2f-89f1-ed1500f85117",
+          "wishlistId": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+          "productId": "8d4253df-677f-4713-84e1-528fe671b31f",
+          "addedAt": "2025-12-11T22:59:08.261Z"
+        },
+        {
+          "id": "0154d12c-0718-43c3-8d7b-ae9bdccbf6bc",
+          "wishlistId": "92648ff2-f54d-4c26-a7df-9a8642240abb",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "addedAt": "2025-12-05T03:47:38.753Z"
+        }
+      ],
+      "createdAt": "2025-12-25T02:59:53.104Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "694055ce-16da-4c5d-8610-553d99424068",
+      "name": "Wishlist 6",
+      "email": "customer6@example.com",
+      "shareToken": "a2f50136-c6bd-45dd-95cb-6a2023a24721",
+      "items": [
+        {
+          "id": "0a8c30c5-12b2-4b92-afd0-ce09cdb077cf",
+          "wishlistId": "694055ce-16da-4c5d-8610-553d99424068",
+          "productId": "210d98b1-be63-497e-8e91-7fa826571ecc",
+          "addedAt": "2025-12-25T04:53:10.797Z"
+        },
+        {
+          "id": "7a80c144-9756-4bc7-be69-04fc3b680ec3",
+          "wishlistId": "694055ce-16da-4c5d-8610-553d99424068",
+          "productId": "7248b49e-d44c-41f4-863f-b3f0fc012dee",
+          "addedAt": "2025-12-09T05:18:17.352Z"
+        },
+        {
+          "id": "a0713ea9-592d-44b8-aff3-02a5db0bb7a9",
+          "wishlistId": "694055ce-16da-4c5d-8610-553d99424068",
+          "productId": "c93fce34-953d-4986-9e72-9383a3ea0977",
+          "addedAt": "2025-12-22T15:15:25.433Z"
+        },
+        {
+          "id": "51b8a6a8-def5-4588-9fea-7ca93f237be0",
+          "wishlistId": "694055ce-16da-4c5d-8610-553d99424068",
+          "productId": "698d434b-3266-4246-9594-9eb9bd478ef9",
+          "addedAt": "2025-12-06T01:57:39.678Z"
+        }
+      ],
+      "createdAt": "2025-12-22T14:17:32.357Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+      "name": "Wishlist 7",
+      "email": "customer7@example.com",
+      "shareToken": "191bdfd4-b9b3-4e6a-aea2-aef5940750a2",
+      "items": [
+        {
+          "id": "142d3cd7-fc77-43e3-9d6e-ce61f472b28f",
+          "wishlistId": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+          "productId": "294901a8-e556-4a9d-8de6-0fe7898ae213",
+          "addedAt": "2025-12-09T04:46:23.677Z"
+        },
+        {
+          "id": "e36709eb-a6d5-4efc-a0c9-e831d5d8e452",
+          "wishlistId": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+          "productId": "71725ae8-cb4e-40da-9dd1-c2f51115b9c5",
+          "addedAt": "2025-12-19T21:12:30.021Z"
+        },
+        {
+          "id": "94c01a93-71db-4620-9298-344c638f8359",
+          "wishlistId": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "addedAt": "2025-12-04T02:24:17.006Z"
+        },
+        {
+          "id": "57d6a713-7c7e-4abd-9a60-2cb0f3439932",
+          "wishlistId": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+          "productId": "5de50483-3bd0-40f3-9db1-558042ab5d01",
+          "addedAt": "2025-12-24T16:15:45.420Z"
+        },
+        {
+          "id": "dc8dc77e-e074-4292-9647-7a1da7514bed",
+          "wishlistId": "e0accae6-954c-48c4-bfa9-c53d3dcbc292",
+          "productId": "43f24436-68a8-41d0-a430-fcc2d525cb9f",
+          "addedAt": "2025-12-23T08:41:38.295Z"
+        }
+      ],
+      "createdAt": "2025-12-10T11:14:20.101Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "dbfe5228-2efe-4f42-97b9-8511152fccc1",
+      "name": "Wishlist 8",
+      "email": "customer8@example.com",
+      "shareToken": "ecb52ff8-9a3f-4e5e-b9e4-d5d7b3715e81",
+      "items": [
+        {
+          "id": "d7ad953c-4787-42d1-89fb-e7e581233ba7",
+          "wishlistId": "dbfe5228-2efe-4f42-97b9-8511152fccc1",
+          "productId": "8f2a23f2-df2b-48b1-a6fb-57505f493932",
+          "addedAt": "2025-12-10T11:37:01.868Z"
+        },
+        {
+          "id": "a95c7096-b9dd-4922-8133-5aabe7a4893d",
+          "wishlistId": "dbfe5228-2efe-4f42-97b9-8511152fccc1",
+          "productId": "0aab6b8d-e747-43da-8fd8-59bf65aa7d04",
+          "addedAt": "2025-12-14T06:21:35.293Z"
+        },
+        {
+          "id": "8e4bd89f-6bf5-471a-bdb0-9e65d567df9d",
+          "wishlistId": "dbfe5228-2efe-4f42-97b9-8511152fccc1",
+          "productId": "df0a7cca-b53c-4d78-b1b2-581e79f3285c",
+          "addedAt": "2025-12-12T08:39:34.237Z"
+        },
+        {
+          "id": "04383a57-af7a-4d2d-baa4-460eb0f78628",
+          "wishlistId": "dbfe5228-2efe-4f42-97b9-8511152fccc1",
+          "productId": "74e83af2-f428-4d62-a4e8-54cfab1e2379",
+          "addedAt": "2025-12-12T13:48:57.750Z"
+        }
+      ],
+      "createdAt": "2025-11-30T08:20:47.247Z",
+      "updatedAt": "2025-12-27T21:01:33.707Z"
+    },
+    {
+      "id": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+      "name": "Wishlist 9",
+      "email": "customer9@example.com",
+      "shareToken": "01f0263d-b7dc-4b15-84c6-840847bff11f",
+      "items": [
+        {
+          "id": "fd47d54f-7bef-4f2d-af05-8057a695986a",
+          "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+          "addedAt": "2025-12-06T08:43:10.608Z"
+        },
+        {
+          "id": "ae236377-11f9-49f8-8cd4-46add96a019b",
+          "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+          "productId": "451eb468-feb0-4b68-b506-000dfd38ea69",
+          "addedAt": "2025-12-16T21:06:45.753Z"
+        },
+        {
+          "id": "706734fd-daf5-4401-8d0f-89ff81dc3fc2",
+          "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+          "productId": "953036f5-10d8-40fa-b2ec-2e710c4b7deb",
+          "addedAt": "2025-12-10T01:24:21.600Z"
+        },
+        {
+          "id": "aeafa26c-4081-4fde-bc01-760d0da4ee47",
+          "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+          "productId": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+          "addedAt": "2025-12-07T03:25:04.889Z"
+        },
+        {
+          "id": "ced4964d-b0b8-497c-aa18-a3335ecdd901",
+          "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
+          "productId": "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
+          "addedAt": "2025-12-21T02:31:46.115Z"
+        }
+      ],
+      "createdAt": "2025-12-19T16:08:37.811Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "4d37ff8c-3511-4e7e-9292-1e7ad0bee9eb",
+      "name": "Wishlist 10",
+      "email": "customer10@example.com",
+      "shareToken": "dd58c222-fbe7-4d5f-93d0-e6747654b5be",
+      "items": [
+        {
+          "id": "c5903bad-2b26-451b-8da6-81a048b8e483",
+          "wishlistId": "4d37ff8c-3511-4e7e-9292-1e7ad0bee9eb",
+          "productId": "b8ad2686-e0e5-4227-8bce-c35523f2d2e1",
+          "addedAt": "2025-12-19T23:38:43.157Z"
+        },
+        {
+          "id": "7b263ada-8cd2-4105-b990-1d277361a6d0",
+          "wishlistId": "4d37ff8c-3511-4e7e-9292-1e7ad0bee9eb",
+          "productId": "796f4df5-2b97-4f98-90b0-396a4b187c63",
+          "addedAt": "2025-12-09T21:32:29.457Z"
+        }
+      ],
+      "createdAt": "2025-12-04T23:51:32.567Z",
+      "updatedAt": "2025-12-27T21:01:33.708Z"
+    },
+    {
+      "id": "0d95b0fc-abff-404e-ac98-966128190f4c",
+      "name": "Suena Powell",
+      "email": "spowell@agmail.com",
+      "shareToken": "18255b9d-9110-443e-9ec1-f7c9e2d0954e",
+      "items": [
+        {
+          "id": "3ea04e33-10c8-4edd-8293-360b7bc190c1",
+          "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "addedAt": "2025-12-28T00:57:56.617Z"
+        },
+        {
+          "id": "822e7d70-c9f8-45b4-97c9-255bcbd02393",
+          "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
+          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+          "addedAt": "2025-12-28T00:57:56.617Z"
+        },
+        {
+          "id": "b3af5c8e-2b4e-42da-a798-e0e2f38b0e7c",
+          "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "addedAt": "2025-12-28T00:57:56.618Z"
+        }
+      ],
+      "createdAt": "2025-12-28T00:57:56.618Z",
+      "updatedAt": "2025-12-28T00:57:56.618Z"
+    },
+    {
+      "id": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
+      "name": "John Doe",
+      "email": "jd@test.COM",
+      "shareToken": "9a2001c9-33a9-49c9-8a85-62b85f0b1223",
+      "items": [
+        {
+          "id": "32f686d8-e4ce-44aa-917b-db97aec37cd5",
+          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
+          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
+          "addedAt": "2025-12-29T19:27:51.908Z"
+        },
+        {
+          "id": "249fa119-d28e-41ec-ba9b-bf5227c7f0a5",
+          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "addedAt": "2025-12-29T19:27:51.908Z"
+        },
+        {
+          "id": "f641b33b-36be-4387-af55-cea3155a855d",
+          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
+          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+          "addedAt": "2025-12-29T19:27:51.908Z"
+        },
+        {
+          "id": "ea39e406-6ef1-4e85-afb2-8d466d1292d9",
+          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
+          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
+          "addedAt": "2025-12-29T19:27:51.908Z"
+        }
+      ],
+      "createdAt": "2025-12-29T19:27:51.908Z",
+      "updatedAt": "2025-12-29T19:27:51.908Z"
+    },
+    {
+      "id": "2c4a1e51-07f7-4d11-9d3e-a4259889ecc3",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "shareToken": "017531db-15ef-4602-be1b-7b4d42b49237",
+      "items": [
+        {
+          "id": "c4161ac3-9ec6-43ab-a22f-339acf5f875b",
+          "wishlistId": "2c4a1e51-07f7-4d11-9d3e-a4259889ecc3",
+          "productId": "f1f41c44-0feb-48e2-8efb-0791ac073a98",
+          "addedAt": "2026-02-04T21:15:40.984Z"
+        }
+      ],
+      "createdAt": "2026-02-04T21:15:40.984Z",
+      "updatedAt": "2026-02-04T21:15:40.984Z"
+    }
+  ],
+  "adminUsers": [
+    {
+      "id": "b0983705-3f47-430c-8b25-2557828fb19f",
+      "email": "admin@jewelsandtime.com",
+      "password": "$2a$10$RVPl2EFDiwBCRHetV9GdVurWgCqbQEWgkNYmgJd/7FfTNHZDeBkMG",
+      "firstName": "Admin",
+      "lastName": "User",
+      "role": "SUPER_ADMIN",
+      "isActive": true,
+      "createdAt": "2025-12-27T21:01:33.785Z",
+      "updatedAt": "2025-12-27T21:01:33.785Z"
+    }
+  ],
+  "siteSettings": [
+    {
+      "id": "8eb86c98-1156-4706-9e33-fd80e86ac2c6",
+      "key": "siteName",
+      "value": "Jewels & Time",
+      "type": "string"
+    },
+    {
+      "id": "725eaf01-c5c2-42a6-84df-6ce962ea1fd2",
+      "key": "storeAddress",
+      "value": "Montego Bay, Jamaica",
+      "type": "string"
+    },
+    {
+      "id": "4840f87e-b07c-4e2a-bf58-01cb95eceb25",
+      "key": "storePhone",
+      "value": "+1-876-123-4567",
+      "type": "string"
+    },
+    {
+      "id": "321fed9d-c0c5-48dc-842d-085890c37d1c",
+      "key": "storeEmail",
+      "value": "info@jewelsandtime.com",
+      "type": "string"
+    },
+    {
+      "id": "1cd6a400-25e7-4b72-a9f8-42df6689df12",
+      "key": "facebook",
+      "value": "https://facebook.com/jewelsandtime",
+      "type": "string"
+    },
+    {
+      "id": "901624c1-0ec5-4ff7-a1dc-e50e779c8305",
+      "key": "instagram",
+      "value": "https://instagram.com/jewelsandtime",
+      "type": "string"
+    },
+    {
+      "id": "07e7cca7-52fe-4034-811b-e36dfc04c218",
+      "key": "metaTitleTemplate",
+      "value": "{title} | Jewels & Time",
+      "type": "string"
+    }
+  ]
+}
