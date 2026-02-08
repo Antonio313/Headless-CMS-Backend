@@ -1,8 +1,11 @@
 import fs from 'fs';
 import path from 'path';
+import bcrypt from 'bcryptjs';
+import { v4 as uuidv4 } from 'uuid';
 import { Database } from '../types';
+import { AdminRole } from '../types';
 
-const DB_PATH = path.join(__dirname, '../data/db.json');
+const DB_PATH = path.join(process.cwd(), 'src', 'data', 'db.json');
 
 // Ensure data directory exists
 const dataDir = path.dirname(DB_PATH);
@@ -12,6 +15,11 @@ if (!fs.existsSync(dataDir)) {
 
 // Initialize empty database if it doesn't exist
 if (!fs.existsSync(DB_PATH)) {
+  // Hash the default admin password synchronously at startup
+  const defaultEmail = process.env.DEFAULT_ADMIN_EMAIL || 'admin@jewelsandtime.com';
+  const defaultPassword = process.env.DEFAULT_ADMIN_PASSWORD || 'Demo123!';
+  const hashedPassword = bcrypt.hashSync(defaultPassword, 10);
+
   const emptyDb: Database = {
     products: [],
     brands: [],
@@ -21,10 +29,23 @@ if (!fs.existsSync(DB_PATH)) {
     leads: [],
     leadNotes: [],
     wishlists: [],
-    adminUsers: [],
+    adminUsers: [
+      {
+        id: uuidv4(),
+        email: defaultEmail,
+        password: hashedPassword,
+        firstName: 'Admin',
+        lastName: 'User',
+        role: AdminRole.SUPER_ADMIN,
+        isActive: true,
+        createdAt: new Date().toISOString(),
+        updatedAt: new Date().toISOString()
+      }
+    ],
     siteSettings: []
   };
   fs.writeFileSync(DB_PATH, JSON.stringify(emptyDb, null, 2));
+  console.log(`✅ Database initialized with default admin user: ${defaultEmail}`);
 }
 
 /**
