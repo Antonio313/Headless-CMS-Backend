@@ -15,8 +15,8 @@ async function sendNotifications(lead: Lead) {
   const settings = db.getAll('siteSettings');
 
   // Get notification settings
-  const emailEnabled = settings.find(s => s.key === 'enableEmailNotifications')?.value !== false;
-  const whatsappEnabled = settings.find(s => s.key === 'enableWhatsappNotifications')?.value !== false;
+  const emailEnabled = settings.find(s => s.key === 'enableEmailNotifications')?.value !== 'false';
+  const whatsappEnabled = settings.find(s => s.key === 'enableWhatsappNotifications')?.value !== 'false';
   const notificationEmail = settings.find(s => s.key === 'leadNotificationEmail')?.value as string | undefined;
   const notificationWhatsapp = settings.find(s => s.key === 'leadNotificationWhatsapp')?.value as string | undefined;
 

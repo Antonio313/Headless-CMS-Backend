@@ -20,7 +20,7 @@ router.get('/', (_req: Request, res: Response) => {
 
     // Convert to key-value object for easier consumption
     const settingsObject = settings.reduce((acc, setting: SiteSetting) => {
-      let value = setting.value;
+      let value: any = setting.value;
 
       // Parse based on type
       if (setting.type === 'number') {

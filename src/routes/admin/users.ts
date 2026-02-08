@@ -152,6 +152,11 @@ router.put('/:id', authorize(AdminRole.SUPER_ADMIN), validate(updateUserSchema),
 
     const updatedUser = db.update('adminUsers', id, updates);
 
+    if (!updatedUser) {
+      res.status(404).json({ error: 'User not found' });
+      return;
+    }
+
     // Remove password from response
     const { password, ...userWithoutPassword } = updatedUser;
 

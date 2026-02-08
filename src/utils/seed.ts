@@ -546,6 +546,7 @@ async function seed() {
     brands,
     categories,
     subcategories,
+    tags: [],
     leads,
     leadNotes: [],
     wishlists,
