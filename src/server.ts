@@ -32,6 +32,9 @@ import adminUsersRoutes from './routes/admin/users';
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+// Trust proxy (required when behind a reverse proxy like Railway, Render, etc.)
+app.set('trust proxy', 1);
+
 // Swagger configuration
 const swaggerOptions = {
   definition: {
