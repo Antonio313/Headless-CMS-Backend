@@ -37,7 +37,12 @@ router.get('/', (_req: Request, res: Response) => {
 
     const categoriesWithSubs = categories.map((cat: Category) => ({
       ...cat,
-      subcategories: subcategories.filter((sub: Subcategory) => sub.categoryId === cat.id),
+      subcategories: subcategories
+        .filter((sub: Subcategory) => sub.categoryId === cat.id)
+        .map((sub: Subcategory) => ({
+          ...sub,
+          productCount: db.getBy('products', 'subcategoryId', sub.id).length
+        })),
       productCount: db.getBy('products', 'categoryId', cat.id).length
     }));
 
@@ -189,11 +194,41 @@ router.post('/:categoryId/subcategories', validate(subcategorySchema), (req: Req
 
 /**
  * DELETE /api/admin/subcategories/:id
- * Delete subcategory
+ * Delete subcategory with optional product reassignment
+ * Body: { reassignTo?: string | null } - subcategoryId to reassign products to, or null to clear
  */
 router.delete('/subcategories/:id', (req: Request, res: Response) => {
   try {
     const { id } = req.params;
+    const { reassignTo } = req.body || {};
+
+    const subcategory = db.getById('subcategories', id);
+    if (!subcategory) {
+      res.status(404).json({ error: 'Subcategory not found' });
+      return;
+    }
+
+    // Check for products in this subcategory
+    const affectedProducts = db.getBy('products', 'subcategoryId', id);
+
+    // If products exist and no reassignment specified, return info for the frontend
+    if (affectedProducts.length > 0 && reassignTo === undefined) {
+      res.status(400).json({
+        error: 'Subcategory has associated products',
+        productCount: affectedProducts.length,
+        requiresReassignment: true
+      });
+      return;
+    }
+
+    // Reassign products if needed
+    if (affectedProducts.length > 0) {
+      affectedProducts.forEach((product: any) => {
+        db.update('products', product.id, {
+          subcategoryId: reassignTo || undefined
+        });
+      });
+    }
 
     const deleted = db.delete('subcategories', id);
 
@@ -202,7 +237,10 @@ router.delete('/subcategories/:id', (req: Request, res: Response) => {
       return;
     }
 
-    res.json({ message: 'Subcategory deleted successfully' });
+    res.json({
+      message: 'Subcategory deleted successfully',
+      reassignedProducts: affectedProducts.length
+    });
   } catch (error) {
     console.error('Error deleting subcategory:', error);
     res.status(500).json({ error: 'Failed to delete subcategory' });

@@ -53,7 +53,7 @@ const productSchema = z.object({
  */
 router.get('/', (req: Request, res: Response) => {
   try {
-    const { status, brandId, categoryId, search, limit = '50', page = '1' } = req.query;
+    const { status, brandId, categoryId, subcategoryId, tagId, search, limit = '50', page = '1' } = req.query;
 
     let products = db.getAll('products');
 
@@ -68,6 +68,14 @@ router.get('/', (req: Request, res: Response) => {
 
     if (categoryId) {
       products = products.filter((p: Product) => p.categoryId === categoryId);
+    }
+
+    if (subcategoryId) {
+      products = products.filter((p: Product) => p.subcategoryId === subcategoryId);
+    }
+
+    if (tagId) {
+      products = products.filter((p: Product) => p.tagIds?.includes(tagId as string));
     }
 
     if (search) {
@@ -86,14 +94,16 @@ router.get('/', (req: Request, res: Response) => {
 
     const paginatedProducts = products.slice(startIndex, endIndex);
 
-    // Enrich with brand data
+    // Enrich with brand, category, and subcategory data
     const brands = db.getAll('brands');
     const categories = db.getAll('categories');
+    const subcategories = db.getAll('subcategories');
 
     const enrichedProducts = paginatedProducts.map((p: Product) => ({
       ...p,
       brand: brands.find((b) => b.id === p.brandId),
-      category: categories.find((c) => c.id === p.categoryId)
+      category: categories.find((c) => c.id === p.categoryId),
+      subcategory: p.subcategoryId ? subcategories.find((s: any) => s.id === p.subcategoryId) : undefined
     }));
 
     res.json({

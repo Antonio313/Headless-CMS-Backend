@@ -4021,6 +4021,38 @@
       "createdAt": "2026-02-04T21:15:40.998Z",
       "updatedAt": "2026-02-04T21:21:45.591Z",
       "assignedTo": "Admin"
+    },
+    {
+      "id": "83c71f96-b881-4aee-a3ea-078f0fa504fc",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "phone": "13039018502",
+      "source": "WISHLIST",
+      "status": "NEW",
+      "score": 75,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (2 pieces):\n- Pearl Hoop Earrings by Van Cleef & Arpels ($13,900)\n- Tanzanite Studs by John Hardy ($9,300)\n\nTotal Value: $23,200\n\nPreferred Appointment: 2026-02-18 - morning\n\nLocation: 551 Summit Trail, Granby",
+      "wishlistId": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
+      "referrer": "http://localhost:5174/shop",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "createdAt": "2026-02-09T02:27:10.220Z",
+      "updatedAt": "2026-02-09T02:27:10.220Z"
+    },
+    {
+      "id": "12b9ca61-15bf-4c1d-9c08-4cc403447e2d",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "phone": "13039018502",
+      "source": "WISHLIST",
+      "status": "NEW",
+      "score": 85,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (3 pieces):\n- Cable Chain Bracelet by David Yurman ($4,900)\n- Pandora Bracelet by Tanzanite One ($189.99)\n- Cable Twist Ring by Mikimoto ($14,300)\n\nTotal Value: $19,389.99\n\nPreferred Appointment: 2026-02-10 - afternoon\n\nLocation: 551 Summit Trail, Granby",
+      "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
+      "referrer": "http://localhost:5174/shop",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "createdAt": "2026-02-09T02:32:57.562Z",
+      "updatedAt": "2026-02-09T02:32:57.562Z"
     }
   ],
   "leadNotes": [
@@ -4450,6 +4482,56 @@
       ],
       "createdAt": "2026-02-04T21:15:40.984Z",
       "updatedAt": "2026-02-04T21:15:40.984Z"
+    },
+    {
+      "id": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "shareToken": "103e080a-9d2b-4f63-acd3-898d59a36dcf",
+      "items": [
+        {
+          "id": "836bddc2-1cc5-4730-8150-de11ca00a163",
+          "wishlistId": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
+          "productId": "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
+          "addedAt": "2026-02-09T02:27:10.207Z"
+        },
+        {
+          "id": "061af9da-afb2-4414-87b5-54e780c3a50c",
+          "wishlistId": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
+          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
+          "addedAt": "2026-02-09T02:27:10.207Z"
+        }
+      ],
+      "createdAt": "2026-02-09T02:27:10.207Z",
+      "updatedAt": "2026-02-09T02:27:10.207Z"
+    },
+    {
+      "id": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
+      "name": "Reuel Richards",
+      "email": "reuelrichards1@gmail.com",
+      "shareToken": "36673813-9d08-405d-a2b5-98203a328e3e",
+      "items": [
+        {
+          "id": "2c8acc51-025a-44ed-b508-e2dbbb6d0b3d",
+          "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
+          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
+          "addedAt": "2026-02-09T02:32:57.547Z"
+        },
+        {
+          "id": "8fcbff4e-e929-4411-a20e-2c80fec11660",
+          "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
+          "productId": "39eab83a-d512-47ac-a262-88f4e8461165",
+          "addedAt": "2026-02-09T02:32:57.547Z"
+        },
+        {
+          "id": "d2cb08cc-bd1d-4025-9ba3-a6fdef38fa99",
+          "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
+          "productId": "d831c3bd-4568-4425-a2c4-a1dc753b13c1",
+          "addedAt": "2026-02-09T02:32:57.547Z"
+        }
+      ],
+      "createdAt": "2026-02-09T02:32:57.547Z",
+      "updatedAt": "2026-02-09T02:32:57.547Z"
     }
   ],
   "adminUsers": [
