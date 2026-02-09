@@ -24,6 +24,19 @@ export const generateToken = (user: AdminUser): string => {
 };
 
 /**
+ * Generate JWT token for customer
+ */
+export const generateCustomerToken = (customer: { id: string; email: string }): string => {
+  const payload: JwtPayload = {
+    userId: customer.id,
+    email: customer.email,
+    role: 'CUSTOMER'
+  };
+
+  return jwt.sign(payload, JWT_SECRET, { expiresIn: JWT_EXPIRES_IN } as jwt.SignOptions);
+};
+
+/**
  * Verify JWT token
  */
 export const verifyToken = (token: string): JwtPayload => {

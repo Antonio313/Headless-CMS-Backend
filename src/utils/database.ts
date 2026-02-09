@@ -42,11 +42,45 @@ if (!fs.existsSync(DB_PATH)) {
         updatedAt: new Date().toISOString()
       }
     ],
+    customers: [],
     siteSettings: []
   };
   fs.writeFileSync(DB_PATH, JSON.stringify(emptyDb, null, 2));
   console.log(`✅ Database initialized with default admin user: ${defaultEmail}`);
 }
+
+// Migrate existing db.json to add any missing collections
+const migrateDatabase = () => {
+  try {
+    const data = fs.readFileSync(DB_PATH, 'utf-8');
+    const database = JSON.parse(data);
+    let needsWrite = false;
+
+    if (!database.customers) {
+      database.customers = [];
+      needsWrite = true;
+    }
+
+    // Migrate any QUALIFIED leads to CONTACTED
+    if (database.leads) {
+      database.leads.forEach((lead: any) => {
+        if (lead.status === 'QUALIFIED') {
+          lead.status = 'CONTACTED';
+          needsWrite = true;
+        }
+      });
+    }
+
+    if (needsWrite) {
+      fs.writeFileSync(DB_PATH, JSON.stringify(database, null, 2));
+      console.log('✅ Database migrated: added missing collections');
+    }
+  } catch (_) {
+    // Ignore — readDatabase will handle errors
+  }
+};
+
+migrateDatabase();
 
 /**
  * Read the entire database from JSON file

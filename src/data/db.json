@@ -2291,9 +2291,9 @@
       "featured": true,
       "isNew": false,
       "createdAt": "2025-12-09T21:01:33.707Z",
-      "updatedAt": "2025-12-27T21:12:35.603Z",
+      "updatedAt": "2026-02-09T19:49:36.076Z",
       "publishedAt": "2025-12-27T21:12:35.602Z",
-      "viewCount": 229
+      "viewCount": 233
     },
     {
       "id": "5de50483-3bd0-40f3-9db1-558042ab5d01",
@@ -2842,9 +2842,9 @@
       "featured": true,
       "isNew": true,
       "createdAt": "2025-12-17T21:01:33.707Z",
-      "updatedAt": "2026-02-04T21:27:50.865Z",
+      "updatedAt": "2026-02-09T19:49:36.057Z",
       "publishedAt": "2025-12-27T21:12:35.548Z",
-      "viewCount": 203
+      "viewCount": 207
     },
     {
       "id": "451eb468-feb0-4b68-b506-000dfd38ea69",
@@ -3049,9 +3049,9 @@
       "featured": false,
       "isNew": true,
       "createdAt": "2025-12-20T21:01:33.707Z",
-      "updatedAt": "2025-12-27T21:12:35.538Z",
+      "updatedAt": "2026-02-09T20:26:29.693Z",
       "publishedAt": "2025-12-27T21:12:35.537Z",
-      "viewCount": 262
+      "viewCount": 265
     },
     {
       "id": "84a1cdea-5ef4-4a99-a11b-577eea438fd8",
@@ -3442,9 +3442,9 @@
       "featured": true,
       "isNew": true,
       "createdAt": "2025-12-26T21:01:33.707Z",
-      "updatedAt": "2026-02-09T17:07:37.954Z",
+      "updatedAt": "2026-02-09T19:49:36.048Z",
       "publishedAt": null,
-      "viewCount": 494,
+      "viewCount": 498,
       "comparePrice": 20000,
       "tagIds": [
         "82db5456-f8b0-4d00-b7c0-9ec685cad182"
@@ -3750,7 +3750,7 @@
       "email": "lead3@example.com",
       "phone": "+1-876-2124200",
       "source": "CONTACT_FORM",
-      "status": "QUALIFIED",
+      "status": "CONTACTED",
       "score": 0,
       "wishlistId": "4da6459f-a597-4b1e-92b7-27d1113fdcea",
       "createdAt": "2025-11-19T19:39:19.033Z",
@@ -3824,7 +3824,7 @@
       "email": "lead9@example.com",
       "phone": "+1-876-8126256",
       "source": "WISHLIST",
-      "status": "QUALIFIED",
+      "status": "CONTACTED",
       "score": 0,
       "wishlistId": "5053146b-368c-4ed7-bc98-e53d6c621ad0",
       "utmSource": "google",
@@ -3897,7 +3897,7 @@
       "email": "lead15@example.com",
       "phone": "+1-876-9920076",
       "source": "WEBSITE",
-      "status": "QUALIFIED",
+      "status": "CONTACTED",
       "score": 0,
       "createdAt": "2025-12-04T14:01:36.859Z",
       "updatedAt": "2025-12-27T21:01:33.708Z"
@@ -3960,124 +3960,39 @@
       "updatedAt": "2025-12-27T21:01:33.708Z"
     },
     {
-      "id": "580cb112-0c68-4d73-880c-549ce8c509d4",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "phone": "13039018502",
-      "source": "WISHLIST",
-      "status": "NEW",
-      "score": 25,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (4 pieces):\n- Tanzanite Studs by John Hardy ($9,300)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Gold Mesh Bracelet by Tacori ($9,400)\n- Emerald Pendant by Tacori ($8,900)\n\nTotal Value: $35,300\n\nPreferred Appointment: 2025-12-29 - morning\n\nLocation: Turtle Towers, Ocho Rios",
-      "ipAddress": "::1",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-      "createdAt": "2025-12-27T22:32:22.347Z",
-      "updatedAt": "2025-12-27T22:32:22.347Z"
-    },
-    {
-      "id": "28d734cb-e1e3-42fe-8920-89fc358fff33",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "phone": "13039018502",
+      "id": "f8c0d420-36fe-4ffb-9b99-ad27b1f45c02",
+      "name": "Brent Englewood",
+      "email": "be@test.com",
+      "phone": "8764637182",
       "source": "WISHLIST",
       "status": "CONVERTED",
-      "score": 25,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (4 pieces):\n- Tanzanite Studs by John Hardy ($9,300)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Gold Mesh Bracelet by Tacori ($9,400)\n- Emerald Pendant by Tacori ($8,900)\n\nTotal Value: $35,300\n\nPreferred Appointment: 2025-12-30 - afternoon\n\nLocation: Turtle Towers Hotel, Ocho Rios\n\nAdditional Notes: Testing wishlist",
-      "ipAddress": "::1",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-      "createdAt": "2025-12-27T22:32:54.964Z",
-      "updatedAt": "2026-02-06T18:59:14.151Z",
-      "assignedTo": "Sales Team"
-    },
-    {
-      "id": "3842a137-1e39-4932-a80f-c674b585beeb",
-      "name": "Suena Powell",
-      "email": "spowell@agmail.com",
-      "phone": "8765847635",
-      "source": "WISHLIST",
-      "status": "CONVERTED",
-      "score": 85,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (3 pieces):\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Tanzanite Studs by John Hardy ($9,300)\n- Byzantine Chain Necklace by Cartier ($6,400)\n\nTotal Value: $23,400\n\nPreferred Appointment: 2025-12-30 - afternoon\n\nLocation: Moon Palaca, Ocho Rios\n\nAdditional Notes: I like these can I try them on please",
-      "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
-      "ipAddress": "::1",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-      "createdAt": "2025-12-28T00:57:56.629Z",
-      "updatedAt": "2025-12-28T00:59:35.493Z",
-      "assignedTo": "Sales Team"
-    },
-    {
-      "id": "b9f88c80-8b8e-4ed9-82ef-dd28220aedae",
-      "name": "John Doe",
-      "email": "jd@test.COM",
-      "phone": "8765774832",
-      "source": "WISHLIST",
-      "status": "CONVERTED",
-      "score": 95,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (4 pieces):\n- Byzantine Chain Necklace by Cartier ($6,400)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n- Tanzanite Studs by John Hardy ($9,300)\n- Cable Chain Bracelet by David Yurman ($4,900)\n\nTotal Value: $28,300\n\nPreferred Appointment: 2025-12-31 - afternoon\n\nLocation: 123 Main Street, Kingston",
-      "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
-      "ipAddress": "::1",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-      "createdAt": "2025-12-29T19:27:51.918Z",
-      "updatedAt": "2026-02-07T17:23:00.593Z",
-      "assignedTo": "Admin"
-    },
-    {
-      "id": "de1727e6-f898-4d6b-94c2-fa57cd794fc0",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "phone": "13039018502",
-      "source": "WISHLIST",
-      "status": "CONTACTED",
-      "score": 40,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (1 pieces):\n- Pandora Bracelet by Tiffany & Co ($69.99)\n\nTotal Value: $69.99\n\nPreferred Appointment: 2026-02-05 - afternoon\n\nLocation: 551 Summit Trail, Granby",
-      "wishlistId": "2c4a1e51-07f7-4d11-9d3e-a4259889ecc3",
+      "score": 93,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (3 pieces):\n- Pearl Hoop Earrings by Van Cleef & Arpels ($17,000)\n- Tanzanite Studs by John Hardy ($9,300)\n- Pave Diamond Band by Larimar & Silver ($7,700)\n\nTotal Value: $34,000\n\nPreferred Appointment: 2026-02-11 - afternoon\n\nLocation: 123 Main Street, Kingston",
+      "wishlistId": "795fc780-1481-44e1-b624-04d6376a808e",
+      "customerId": "9ba77808-dabc-4618-afd2-9439538035a3",
       "ipAddress": "::1",
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-      "createdAt": "2026-02-04T21:15:40.998Z",
-      "updatedAt": "2026-02-04T21:21:45.591Z",
-      "assignedTo": "Admin"
+      "createdAt": "2026-02-09T19:49:55.520Z",
+      "updatedAt": "2026-02-09T20:22:46.551Z"
     },
     {
-      "id": "83c71f96-b881-4aee-a3ea-078f0fa504fc",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "phone": "13039018502",
+      "id": "66a698d0-8c47-4e29-b301-234f8586db5b",
+      "name": "Chrystal",
+      "email": "cl@gmail.com",
+      "phone": "Lewins",
       "source": "WISHLIST",
       "status": "NEW",
-      "score": 75,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (2 pieces):\n- Pearl Hoop Earrings by Van Cleef & Arpels ($13,900)\n- Tanzanite Studs by John Hardy ($9,300)\n\nTotal Value: $23,200\n\nPreferred Appointment: 2026-02-18 - morning\n\nLocation: 551 Summit Trail, Granby",
-      "wishlistId": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
-      "referrer": "http://localhost:5174/shop",
+      "score": 60,
+      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (1 pieces):\n- Princess Cut Diamond Ring by Tanzanite One ($9,100)\n\nTotal Value: $9,100\n\nPreferred Appointment: 2026-02-17 - afternoon\n\nLocation: 123Main Street, Jamaica",
+      "wishlistId": "c0ca76c2-183e-4136-b141-f3689b076be7",
+      "referrer": "http://localhost:5174/account",
       "ipAddress": "::1",
       "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-      "createdAt": "2026-02-09T02:27:10.220Z",
-      "updatedAt": "2026-02-09T02:27:10.220Z"
-    },
-    {
-      "id": "12b9ca61-15bf-4c1d-9c08-4cc403447e2d",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "phone": "13039018502",
-      "source": "WISHLIST",
-      "status": "NEW",
-      "score": 85,
-      "message": "WISHLIST CONSULTATION REQUEST\n\nSelected Items (3 pieces):\n- Cable Chain Bracelet by David Yurman ($4,900)\n- Pandora Bracelet by Tanzanite One ($189.99)\n- Cable Twist Ring by Mikimoto ($14,300)\n\nTotal Value: $19,389.99\n\nPreferred Appointment: 2026-02-10 - afternoon\n\nLocation: 551 Summit Trail, Granby",
-      "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
-      "referrer": "http://localhost:5174/shop",
-      "ipAddress": "::1",
-      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-      "createdAt": "2026-02-09T02:32:57.562Z",
-      "updatedAt": "2026-02-09T02:32:57.562Z"
+      "createdAt": "2026-02-09T20:26:55.058Z",
+      "updatedAt": "2026-02-09T20:26:55.058Z"
     }
   ],
-  "leadNotes": [
-    {
-      "id": "41ea6fff-8c97-484a-8ac7-99ada59937fb",
-      "leadId": "3842a137-1e39-4932-a80f-c674b585beeb",
-      "note": "This customer is a potential converted lead",
-      "createdBy": "Admin",
-      "createdAt": "2025-12-28T00:59:13.202Z"
-    }
-  ],
+  "leadNotes": [],
   "wishlists": [
     {
       "id": "fc281b11-9eb5-4078-aecf-d4eb1ec8262b",
@@ -4420,132 +4335,49 @@
       "updatedAt": "2025-12-27T21:01:33.708Z"
     },
     {
-      "id": "0d95b0fc-abff-404e-ac98-966128190f4c",
-      "name": "Suena Powell",
-      "email": "spowell@agmail.com",
-      "shareToken": "18255b9d-9110-443e-9ec1-f7c9e2d0954e",
+      "id": "795fc780-1481-44e1-b624-04d6376a808e",
+      "name": "Brent Englewood",
+      "email": "be@test.com",
+      "customerId": "9ba77808-dabc-4618-afd2-9439538035a3",
+      "shareToken": "e774d65d-7a51-4a00-af93-e4ae86ae8e5a",
       "items": [
         {
-          "id": "3ea04e33-10c8-4edd-8293-360b7bc190c1",
-          "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
-          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
-          "addedAt": "2025-12-28T00:57:56.617Z"
-        },
-        {
-          "id": "822e7d70-c9f8-45b4-97c9-255bcbd02393",
-          "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
-          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
-          "addedAt": "2025-12-28T00:57:56.617Z"
-        },
-        {
-          "id": "b3af5c8e-2b4e-42da-a798-e0e2f38b0e7c",
-          "wishlistId": "0d95b0fc-abff-404e-ac98-966128190f4c",
-          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
-          "addedAt": "2025-12-28T00:57:56.618Z"
-        }
-      ],
-      "createdAt": "2025-12-28T00:57:56.618Z",
-      "updatedAt": "2025-12-28T00:57:56.618Z"
-    },
-    {
-      "id": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
-      "name": "John Doe",
-      "email": "jd@test.COM",
-      "shareToken": "9a2001c9-33a9-49c9-8a85-62b85f0b1223",
-      "items": [
-        {
-          "id": "32f686d8-e4ce-44aa-917b-db97aec37cd5",
-          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
-          "productId": "122ffda7-39a1-4dc4-81ee-2f45d4191c21",
-          "addedAt": "2025-12-29T19:27:51.908Z"
-        },
-        {
-          "id": "249fa119-d28e-41ec-ba9b-bf5227c7f0a5",
-          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
-          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
-          "addedAt": "2025-12-29T19:27:51.908Z"
-        },
-        {
-          "id": "f641b33b-36be-4387-af55-cea3155a855d",
-          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
-          "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
-          "addedAt": "2025-12-29T19:27:51.908Z"
-        },
-        {
-          "id": "ea39e406-6ef1-4e85-afb2-8d466d1292d9",
-          "wishlistId": "4677334b-db19-4f8e-95d7-c1311e2fdc39",
-          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
-          "addedAt": "2025-12-29T19:27:51.908Z"
-        }
-      ],
-      "createdAt": "2025-12-29T19:27:51.908Z",
-      "updatedAt": "2025-12-29T19:27:51.908Z"
-    },
-    {
-      "id": "2c4a1e51-07f7-4d11-9d3e-a4259889ecc3",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "shareToken": "017531db-15ef-4602-be1b-7b4d42b49237",
-      "items": [
-        {
-          "id": "c4161ac3-9ec6-43ab-a22f-339acf5f875b",
-          "wishlistId": "2c4a1e51-07f7-4d11-9d3e-a4259889ecc3",
-          "productId": "f1f41c44-0feb-48e2-8efb-0791ac073a98",
-          "addedAt": "2026-02-04T21:15:40.984Z"
-        }
-      ],
-      "createdAt": "2026-02-04T21:15:40.984Z",
-      "updatedAt": "2026-02-04T21:15:40.984Z"
-    },
-    {
-      "id": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "shareToken": "103e080a-9d2b-4f63-acd3-898d59a36dcf",
-      "items": [
-        {
-          "id": "836bddc2-1cc5-4730-8150-de11ca00a163",
-          "wishlistId": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
+          "id": "cc35b39a-a746-4ce3-8fae-fccbb02ac2c2",
+          "wishlistId": "795fc780-1481-44e1-b624-04d6376a808e",
           "productId": "9b7ccbb7-49d8-4a02-9564-92e4e47bcbc4",
-          "addedAt": "2026-02-09T02:27:10.207Z"
+          "addedAt": "2026-02-09T19:49:55.494Z"
         },
         {
-          "id": "061af9da-afb2-4414-87b5-54e780c3a50c",
-          "wishlistId": "e04f0dac-91a4-4454-ba15-6ecb54d03834",
+          "id": "2e39bd9f-49c5-41dc-8426-bb88eb0cf483",
+          "wishlistId": "795fc780-1481-44e1-b624-04d6376a808e",
           "productId": "f6c2f20d-8ac3-4e98-9dfe-2f94b9a2673e",
-          "addedAt": "2026-02-09T02:27:10.207Z"
+          "addedAt": "2026-02-09T19:49:55.494Z"
+        },
+        {
+          "id": "93701b16-d8b9-46a7-83fd-862b464d43c8",
+          "wishlistId": "795fc780-1481-44e1-b624-04d6376a808e",
+          "productId": "1e7c16ca-fd39-4483-8bdf-baa510393371",
+          "addedAt": "2026-02-09T19:49:55.494Z"
         }
       ],
-      "createdAt": "2026-02-09T02:27:10.207Z",
-      "updatedAt": "2026-02-09T02:27:10.207Z"
+      "createdAt": "2026-02-09T19:49:55.494Z",
+      "updatedAt": "2026-02-09T19:49:55.494Z"
     },
     {
-      "id": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
-      "name": "Reuel Richards",
-      "email": "reuelrichards1@gmail.com",
-      "shareToken": "36673813-9d08-405d-a2b5-98203a328e3e",
+      "id": "c0ca76c2-183e-4136-b141-f3689b076be7",
+      "name": "Chrystal",
+      "email": "cl@gmail.com",
+      "shareToken": "8e62f16a-2921-4df0-9d26-bdf06329e465",
       "items": [
         {
-          "id": "2c8acc51-025a-44ed-b508-e2dbbb6d0b3d",
-          "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
-          "productId": "70edd0c9-795e-470d-8526-1668c9e51f54",
-          "addedAt": "2026-02-09T02:32:57.547Z"
-        },
-        {
-          "id": "8fcbff4e-e929-4411-a20e-2c80fec11660",
-          "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
-          "productId": "39eab83a-d512-47ac-a262-88f4e8461165",
-          "addedAt": "2026-02-09T02:32:57.547Z"
-        },
-        {
-          "id": "d2cb08cc-bd1d-4025-9ba3-a6fdef38fa99",
-          "wishlistId": "5366b27b-ccd9-4118-b9ba-9d71acdbc6c1",
-          "productId": "d831c3bd-4568-4425-a2c4-a1dc753b13c1",
-          "addedAt": "2026-02-09T02:32:57.547Z"
+          "id": "1fdf05a0-6d68-48f3-98cc-501ac98d495e",
+          "wishlistId": "c0ca76c2-183e-4136-b141-f3689b076be7",
+          "productId": "91e5ca4a-0d5c-4d4f-927f-250d38b80fde",
+          "addedAt": "2026-02-09T20:26:55.030Z"
         }
       ],
-      "createdAt": "2026-02-09T02:32:57.547Z",
-      "updatedAt": "2026-02-09T02:32:57.547Z"
+      "createdAt": "2026-02-09T20:26:55.030Z",
+      "updatedAt": "2026-02-09T20:26:55.030Z"
     }
   ],
   "adminUsers": [
@@ -4603,6 +4435,31 @@
       "key": "metaTitleTemplate",
       "value": "{title} | Jewels & Time",
       "type": "string"
+    }
+  ],
+  "customers": [
+    {
+      "id": "14a690f5-3e5d-4663-a64c-e319d0426349",
+      "email": "rn@test.com",
+      "password": "$2a$10$hnep5lS9tt.IhQpWQ3QMuunuWQ.KWyFHVaTMziPQLc6YxlbDjIFki",
+      "firstName": "Rex",
+      "lastName": "Nettleford",
+      "phone": "8769817263",
+      "isActive": true,
+      "createdAt": "2026-02-09T19:42:58.700Z",
+      "updatedAt": "2026-02-09T19:51:23.897Z"
+    },
+    {
+      "id": "9ba77808-dabc-4618-afd2-9439538035a3",
+      "email": "be@test.com",
+      "password": "$2a$10$79rQ.z94HzLvIT.zoSHdTusa4EIN2Z/kEgSg9xrYQ07V18aEVSkki",
+      "firstName": "Brent",
+      "lastName": "Englewood",
+      "phone": "8764637182",
+      "isActive": true,
+      "createdAt": "2026-02-09T19:46:30.893Z",
+      "updatedAt": "2026-02-09T20:22:37.815Z",
+      "lastLoginAt": "2026-02-09T20:22:37.814Z"
     }
   ]
 }

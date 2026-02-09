@@ -1,6 +1,6 @@
 import { Router, Request, Response } from 'express';
 import { db } from '../../utils/database';
-import { Wishlist, WishlistItem, Product } from '../../types';
+import { Wishlist, WishlistItem, Product, Lead, LeadNote } from '../../types';
 import { authenticate } from '../../middleware/auth';
 
 const router = Router();
@@ -135,7 +135,25 @@ router.delete('/:id', (req: Request, res: Response) => {
       return;
     }
 
-    res.json({ message: 'Wishlist deleted successfully' });
+    // Cascade: delete linked leads and their notes
+    const linkedLeads = db.getBy('leads', 'wishlistId', id) as Lead[];
+    let deletedLeadsCount = 0;
+
+    linkedLeads.forEach((lead: Lead) => {
+      // Delete lead notes first
+      const notes = db.getBy('leadNotes', 'leadId', lead.id) as LeadNote[];
+      notes.forEach((note: LeadNote) => {
+        db.delete('leadNotes', note.id);
+      });
+      // Delete the lead
+      db.delete('leads', lead.id);
+      deletedLeadsCount++;
+    });
+
+    res.json({
+      message: 'Wishlist deleted successfully',
+      deletedLeads: deletedLeadsCount
+    });
   } catch (error) {
     console.error('Error deleting wishlist:', error);
     res.status(500).json({ error: 'Failed to delete wishlist' });

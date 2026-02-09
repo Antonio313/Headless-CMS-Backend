@@ -18,7 +18,6 @@ export enum LeadSource {
 export enum LeadStatus {
   NEW = 'NEW',
   CONTACTED = 'CONTACTED',
-  QUALIFIED = 'QUALIFIED',
   SCHEDULED = 'SCHEDULED',
   CONVERTED = 'CONVERTED',
   LOST = 'LOST'
@@ -151,6 +150,7 @@ export interface Lead {
   // Lead details
   message?: string;
   wishlistId?: string;
+  customerId?: string;
 
   // Tracking
   utmSource?: string;
@@ -182,6 +182,7 @@ export interface Wishlist {
   id: string;
   name: string;
   email?: string;
+  customerId?: string;
   shareToken: string;
   items: WishlistItem[];
   createdAt: string;
@@ -208,6 +209,19 @@ export interface AdminUser {
   updatedAt: string;
 }
 
+export interface Customer {
+  id: string;
+  email: string;
+  password: string;
+  firstName: string;
+  lastName: string;
+  phone?: string;
+  isActive: boolean;
+  createdAt: string;
+  updatedAt: string;
+  lastLoginAt?: string;
+}
+
 export interface SiteSetting {
   id: string;
   key: string;
@@ -226,5 +240,6 @@ export interface Database {
   leadNotes: LeadNote[];
   wishlists: Wishlist[];
   adminUsers: AdminUser[];
+  customers: Customer[];
   siteSettings: SiteSetting[];
 }

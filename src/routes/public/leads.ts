@@ -5,6 +5,7 @@ import { db } from '../../utils/database';
 import { Lead, LeadSource, LeadStatus } from '../../types';
 import { calculateLeadScore } from '../../services/leadScoring';
 import { validate } from '../../middleware/validation';
+import { optionalAuth } from '../../middleware/auth';
 import { sendLeadNotification } from '../../services/emailService';
 import { sendWhatsAppNotification } from '../../services/whatsappService';
 
@@ -59,7 +60,7 @@ const createLeadSchema = z.object({
  * POST /api/leads
  * Create a new lead
  */
-router.post('/', validate(createLeadSchema), async (req: Request, res: Response) => {
+router.post('/', optionalAuth, validate(createLeadSchema), async (req: Request, res: Response) => {
   try {
     const {
       name,
@@ -77,6 +78,8 @@ router.post('/', validate(createLeadSchema), async (req: Request, res: Response)
     // Get wishlist if provided
     const wishlist = wishlistId ? db.getById('wishlists', wishlistId) : undefined;
 
+    const customerId = req.user?.role === 'CUSTOMER' ? req.user.userId : undefined;
+
     const lead: Lead = {
       id: uuidv4(),
       name,
@@ -87,6 +90,7 @@ router.post('/', validate(createLeadSchema), async (req: Request, res: Response)
       score: 0,
       message: message || undefined,
       wishlistId: wishlistId || undefined,
+      customerId,
       utmSource: utmSource || undefined,
       utmMedium: utmMedium || undefined,
       utmCampaign: utmCampaign || undefined,
@@ -98,7 +102,7 @@ router.post('/', validate(createLeadSchema), async (req: Request, res: Response)
     };
 
     // Calculate lead score
-    lead.score = calculateLeadScore(lead, wishlist);
+    lead.score = calculateLeadScore(lead, wishlist, customerId);
 
     db.create('leads', lead);
 
@@ -140,9 +144,11 @@ const contactSchema = z.object({
   message: z.string().min(10, 'Message must be at least 10 characters')
 });
 
-router.post('/contact', validate(contactSchema), async (req: Request, res: Response) => {
+router.post('/contact', optionalAuth, validate(contactSchema), async (req: Request, res: Response) => {
   try {
     const { name, email, phone, productId, message } = req.body;
+
+    const customerId = req.user?.role === 'CUSTOMER' ? req.user.userId : undefined;
 
     const lead: Lead = {
       id: uuidv4(),
@@ -153,6 +159,7 @@ router.post('/contact', validate(contactSchema), async (req: Request, res: Respo
       status: LeadStatus.NEW,
       score: 0,
       message: productId ? `Product inquiry: ${productId}\n\n${message}` : message,
+      customerId,
       createdAt: new Date().toISOString(),
       updatedAt: new Date().toISOString(),
       ipAddress: req.ip,
@@ -160,7 +167,7 @@ router.post('/contact', validate(contactSchema), async (req: Request, res: Respo
     };
 
     // Calculate lead score
-    lead.score = calculateLeadScore(lead);
+    lead.score = calculateLeadScore(lead, undefined, customerId);
 
     db.create('leads', lead);
 

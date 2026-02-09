@@ -18,6 +18,8 @@ import publicCategoriesRoutes from './routes/public/categories';
 import publicTagsRoutes from './routes/public/tags';
 import publicWishlistsRoutes from './routes/public/wishlists';
 import publicLeadsRoutes from './routes/public/leads';
+import publicCustomerAuthRoutes from './routes/public/customerAuth';
+import publicCustomerAccountRoutes from './routes/public/customerAccount';
 
 import adminAuthRoutes from './routes/admin/auth';
 import adminProductsRoutes from './routes/admin/products';
@@ -28,6 +30,7 @@ import adminTagsRoutes from './routes/admin/tags';
 import adminWishlistsRoutes from './routes/admin/wishlists';
 import adminSettingsRoutes from './routes/admin/settings';
 import adminUsersRoutes from './routes/admin/users';
+import adminCustomersRoutes from './routes/admin/customers';
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -99,10 +102,20 @@ const publicLimiter = rateLimit({
   legacyHeaders: false
 });
 
+// Rate limiter for auth endpoints (stricter)
+const authLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 10,
+  message: 'Too many auth attempts, please try again later.',
+  standardHeaders: true,
+  legacyHeaders: false
+});
+
 // Apply rate limiter to public API routes
 app.use('/api/products', publicLimiter);
 app.use('/api/leads', publicLimiter);
 app.use('/api/contact', publicLimiter);
+app.use('/api/customer/auth', authLimiter);
 
 // Health check
 app.get('/health', (_req: Request, res: Response) => {
@@ -123,6 +136,8 @@ app.use('/api/categories', publicCategoriesRoutes);
 app.use('/api/tags', publicTagsRoutes);
 app.use('/api/wishlists', publicWishlistsRoutes);
 app.use('/api/leads', publicLeadsRoutes);
+app.use('/api/customer/auth', publicCustomerAuthRoutes);
+app.use('/api/customer', publicCustomerAccountRoutes);
 
 // Admin API Routes
 app.use('/api/admin/auth', adminAuthRoutes);
@@ -134,6 +149,7 @@ app.use('/api/admin/tags', adminTagsRoutes);
 app.use('/api/admin/wishlists', adminWishlistsRoutes);
 app.use('/api/admin/settings', adminSettingsRoutes);
 app.use('/api/admin/users', adminUsersRoutes);
+app.use('/api/admin/customers', adminCustomersRoutes);
 
 // 404 handler
 app.use((req: Request, res: Response) => {

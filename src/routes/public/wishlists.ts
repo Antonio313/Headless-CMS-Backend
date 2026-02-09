@@ -1,6 +1,7 @@
 import { Router, Request, Response } from 'express';
 import { v4 as uuidv4 } from 'uuid';
 import { db } from '../../utils/database';
+import { optionalAuth } from '../../middleware/auth';
 import { Wishlist, WishlistItem, Product } from '../../types';
 
 const router = Router();
@@ -9,7 +10,7 @@ const router = Router();
  * POST /api/wishlists
  * Create a new wishlist
  */
-router.post('/', (req: Request, res: Response) => {
+router.post('/', optionalAuth, (req: Request, res: Response) => {
   try {
     const { name, email, items } = req.body;
 
@@ -25,6 +26,7 @@ router.post('/', (req: Request, res: Response) => {
       id: wishlistId,
       name: name || 'My Wishlist',
       email: email || undefined,
+      customerId: req.user?.role === 'CUSTOMER' ? req.user.userId : undefined,
       shareToken,
       items: items.map((productId: string) => ({
         id: uuidv4(),

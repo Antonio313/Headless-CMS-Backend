@@ -124,7 +124,6 @@ router.get('/stats', (req: Request, res: Response) => {
       total: leads.length,
       new: leads.filter((l: Lead) => l.status === LeadStatus.NEW).length,
       contacted: leads.filter((l: Lead) => l.status === LeadStatus.CONTACTED).length,
-      qualified: leads.filter((l: Lead) => l.status === LeadStatus.QUALIFIED).length,
       scheduled: leads.filter((l: Lead) => l.status === LeadStatus.SCHEDULED).length,
       converted: leads.filter((l: Lead) => l.status === LeadStatus.CONVERTED).length,
       lost: leads.filter((l: Lead) => l.status === LeadStatus.LOST).length,
@@ -197,14 +196,35 @@ router.put('/:id', validate(updateLeadSchema), (req: Request, res: Response) => 
     const { id } = req.params;
     const updates = req.body;
 
-    const existingLead = db.getById('leads', id);
+    const existingLead = db.getById('leads', id) as Lead | undefined;
 
     if (!existingLead) {
       res.status(404).json({ error: 'Lead not found' });
       return;
     }
 
-    const updatedLead = db.update('leads', id, updates);
+    const updatedLead = db.update('leads', id, updates) as Lead;
+
+    // When a lead is marked CONVERTED, recalculate sibling lead scores
+    if (updates.status === LeadStatus.CONVERTED && existingLead.status !== LeadStatus.CONVERTED) {
+      const allLeads = db.getAll('leads') as Lead[];
+      const siblingLeads = allLeads.filter(
+        (l: Lead) => l.id !== id && (
+          (updatedLead.customerId && l.customerId === updatedLead.customerId) ||
+          l.email === updatedLead.email
+        )
+      );
+
+      siblingLeads.forEach((sibling: Lead) => {
+        const siblingWishlist = sibling.wishlistId
+          ? db.getById('wishlists', sibling.wishlistId) as Wishlist | undefined
+          : undefined;
+        const newScore = calculateLeadScore(sibling, siblingWishlist, sibling.customerId);
+        if (newScore !== sibling.score) {
+          db.update('leads', sibling.id, { score: newScore });
+        }
+      });
+    }
 
     res.json({ lead: updatedLead });
   } catch (error) {

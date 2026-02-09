@@ -551,7 +551,8 @@ async function seed() {
     leadNotes: [],
     wishlists,
     adminUsers,
-    siteSettings
+    siteSettings,
+    customers: []
   };
 
   writeDatabase(database);
