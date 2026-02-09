@@ -3391,7 +3391,7 @@
       "name": "Pearl Hoop Earrings",
       "description": "Exquisite pearl hoop earrings crafted with precision and luxury. This stunning piece features diamond set in 18K sterling silver, perfect for the discerning jewelry lover.",
       "shortDesc": "Diamond Sterling Silver jewelry piece from Van Cleef & Arpels",
-      "price": 13900,
+      "price": 17000,
       "brandId": "94988812-0b9f-4cf2-8062-40f7253e1aaf",
       "categoryId": "00b7f48f-7af5-4d9a-88c8-b60bed45088c",
       "metalType": "Sterling Silver",
@@ -3442,13 +3442,12 @@
       "featured": true,
       "isNew": true,
       "createdAt": "2025-12-26T21:01:33.707Z",
-      "updatedAt": "2026-02-04T21:10:06.502Z",
+      "updatedAt": "2026-02-09T17:07:37.954Z",
       "publishedAt": null,
-      "viewCount": 492,
+      "viewCount": 494,
       "comparePrice": 20000,
       "tagIds": [
-        "e5f01878-5520-49a2-ba52-d3a0ff07b851",
-        "6efd6968-2776-4f99-80c8-633d8b91186a"
+        "82db5456-f8b0-4d00-b7c0-9ec685cad182"
       ]
     },
     {
@@ -3579,6 +3578,14 @@
       "featured": false,
       "createdAt": "2025-12-27T21:01:33.706Z",
       "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "8df1d4f6-e8f0-4950-ac0b-37b921aee513",
+      "name": "Pandora",
+      "slug": "pandora",
+      "featured": false,
+      "createdAt": "2026-02-09T17:06:13.522Z",
+      "updatedAt": "2026-02-09T17:06:13.522Z"
     }
   ],
   "categories": [
@@ -3626,6 +3633,13 @@
       "icon": "⌚",
       "createdAt": "2025-12-27T21:01:33.706Z",
       "updatedAt": "2025-12-27T21:01:33.706Z"
+    },
+    {
+      "id": "4c5824aa-a119-4ef9-b2bd-a247d1d70385",
+      "name": "Bangles",
+      "slug": "bangles",
+      "createdAt": "2026-02-09T17:06:02.294Z",
+      "updatedAt": "2026-02-09T17:06:02.294Z"
     }
   ],
   "subcategories": [
