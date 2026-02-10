@@ -1792,9 +1792,9 @@
       "featured": false,
       "isNew": false,
       "createdAt": "2025-12-02T21:01:33.707Z",
-      "updatedAt": "2026-02-04T21:27:55.265Z",
+      "updatedAt": "2026-02-10T03:13:25.460Z",
       "publishedAt": "2025-12-27T22:26:53.329Z",
-      "viewCount": 138
+      "viewCount": 140
     },
     {
       "id": "7248b49e-d44c-41f4-863f-b3f0fc012dee",
@@ -2842,9 +2842,9 @@
       "featured": true,
       "isNew": true,
       "createdAt": "2025-12-17T21:01:33.707Z",
-      "updatedAt": "2026-02-09T19:49:36.057Z",
+      "updatedAt": "2026-02-10T03:13:25.447Z",
       "publishedAt": "2025-12-27T21:12:35.548Z",
-      "viewCount": 207
+      "viewCount": 209
     },
     {
       "id": "451eb468-feb0-4b68-b506-000dfd38ea69",
@@ -4460,6 +4460,17 @@
       "createdAt": "2026-02-09T19:46:30.893Z",
       "updatedAt": "2026-02-09T20:22:37.815Z",
       "lastLoginAt": "2026-02-09T20:22:37.814Z"
+    },
+    {
+      "id": "b06a28bb-a598-4cfa-b9c8-21d24ce42068",
+      "email": "bj@test.com",
+      "password": "$2a$10$DbUFokPP7lpEpXScBR3t5OXdSzq5oYJg6urk0QYQFTD1elDXXf6oq",
+      "firstName": "Brandon",
+      "lastName": "Jinx",
+      "phone": "3039018502",
+      "isActive": true,
+      "createdAt": "2026-02-10T03:13:56.326Z",
+      "updatedAt": "2026-02-10T03:14:12.703Z"
     }
   ]
 }
